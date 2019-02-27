@@ -1,1 +1,1 @@
-# cs838_2019
+# This is the project page of CS838
