@@ -1,0 +1,465 @@
+The following table shows the names of the delegates who at some point attended the Continental Congress. Because a delegate did not necessarily take his seat in Congress in the same year that he was elected, nor did he necessarily stay for the duration of his term, there are slight discrepancies in the sources regarding the years of service for some delegates. Only those years that the delegate actually attended Congress are shown on the table. All data is from the Biographical Directory of the United States Congress, except where entries been corrected using more detailed sources, particularly the American National Biography.
+
+The table also indicates (with an X) which delegates signed the Continental Association (1774), the United States Declaration of Independence (1776), the Articles of Confederation (1778–1781), and the United States Constitution (1787). The first three documents were created by Congress, and so all signers were necessarily delegates; the United States Constitution was signed at a special convention outside of Congress, and its signatories were not all current or former members of Congress.
+
+John Dickinson has two entries on the table because he served as a delegate from both Pennsylvania and Delaware. The person who most frequently attended Congress was not a delegate: he was Charles Thomson, who served as secretary throughout Congress' existence.
+	Name 	State 	Years attended 	Association 	Declaration 	Confederation 	Constitution
+1 	Andrew Adams 	Connecticut 	1778 	— 	— 	X 	—
+2 	John Adams 	Massachusetts 	1774–1777 	X 	X 	— 	—
+3 	Samuel Adams 	Massachusetts 	1774–1781 	X 	X 	X 	—
+4 	Thomas Adams 	Virginia 	1778–1779 	— 	— 	X 	—
+5 	Robert Alexander 	Maryland 	1776 	— 	— 	— 	—
+6 	Andrew Allen 	Pennsylvania 	1775–1776 	— 	— 	— 	—
+7 	John Alsop 	New York 	1774–1776 	X 	— 	— 	—
+8 	John Armstrong Sr. 	Pennsylvania 	1779–1780 	— 	— 	— 	—
+9 	John Armstrong Jr. 	Pennsylvania 	1787–1788 	— 	— 	— 	—
+10 	Jonathan Arnold 	Rhode Island 	1782–1784[3] 	— 	— 	— 	—
+11 	Peleg Arnold 	Rhode Island 	1787–1788 	— 	— 	— 	—
+12 	John B. Ashe 	North Carolina 	1787 	— 	— 	— 	—
+13 	Samuel John Atlee 	Pennsylvania 	1778–1782 	— 	— 	— 	—
+14 	Abraham Baldwin 	Georgia 	1785, 1787–1788 	— 	— 	— 	X
+15 	John Banister 	Virginia 	1778 	— 	— 	X 	—
+16 	Robert Barnwell 	South Carolina 	1789 	— 	— 	— 	—
+	Name 	State 	Years attended 	Association 	Declaration 	Confederation 	Constitution
+17 	Josiah Bartlett 	New Hampshire 	1775–1776, 1778 [4] 	— 	X 	X 	—
+18 	John Bubenheim Bayard 	Pennsylvania 	1785–1786 	— 	— 	— 	—
+19 	John Beatty 	New Jersey 	1784–1785 	— 	— 	— 	—
+20 	Gunning Bedford Jr. 	Delaware 	1783–1785 	— 	— 	— 	X
+21 	Thomas Bee 	South Carolina 	1780–1782 	— 	— 	— 	—
+22 	Egbert Benson 	New York 	1784, 1787–1788 	— 	— 	— 	—
+23 	Richard Beresford 	South Carolina 	1783–1784 	— 	— 	— 	—
+24 	Edward Biddle 	Pennsylvania 	1774–1775 	X 	— 	— 	—
+25 	William Bingham 	Pennsylvania 	1786–1788 	— 	— 	— 	—
+26 	Jonathan Blanchard 	New Hampshire 	1783–1784, 1787[5] 	— 	— 	— 	—
+27 	Richard Bland 	Virginia 	1774–1775 	X 	— 	— 	—
+28 	Theodorick Bland 	Virginia 	1780–1783 	— 	— 	— 	—
+29 	Timothy Bloodworth 	North Carolina 	1786 	— 	— 	— 	—
+30 	William Blount 	North Carolina 	1782–1783, 1786–1787 	— 	— 	— 	X
+31 	Simon Boerum 	New York 	1774–1775 	X 	— 	— 	—
+32 	Elias Boudinot 	New Jersey 	1778, 1781–1783 	— 	— 	— 	—
+	Name 	State 	Years attended 	Association 	Declaration 	Confederation 	Constitution
+33 	Carter Braxton 	Virginia 	1776 	— 	X 	— 	—
+34 	John Brown 	Virginia 	1787–1788 	— 	— 	— 	—
+35 	Nathan Brownson 	Georgia 	1777 	— 	— 	— 	—
+36 	John Bull 	South Carolina 	1784–1787 	— 	— 	— 	—
+37 	Archibald Bulloch 	Georgia 	1775 	— 	— 	— 	—
+38 	Thomas Burke 	North Carolina 	1777–1781 	— 	— 	— 	—
+39 	William Burnet 	New Jersey 	1780–1781 	— 	— 	— 	—
+40 	Robert Burton 	North Carolina 	1787 	— 	— 	— 	—
+41 	Pierce Butler 	South Carolina 	1787 	— 	— 	— 	X
+42 	Lambert Cadwalader 	New Jersey 	1785–1787 	— 	— 	— 	—
+43 	William Carmichael 	Maryland 	1778–1779 	— 	— 	— 	—
+44 	Edward Carrington 	Virginia 	1786–1788 	— 	— 	— 	—
+45 	Charles Carroll ("Barrister") 	Maryland 	1776–1777 	— 	— 	— 	—
+46 	Charles Carroll ("of Carrollton") 	Maryland 	1776–1778 [6] 	— 	X 	— 	—
+47 	Daniel Carroll 	Maryland 	1781–1783 	— 	— 	X 	X
+48 	Richard Caswell 	North Carolina 	1774–1775 	X 	— 	— 	—
+	Name 	State 	Years attended 	Association 	Declaration 	Confederation 	Constitution
+49 	Jeremiah Chase 	Maryland 	1783–1784 	— 	— 	— 	—
+50 	Samuel Chase 	Maryland 	1774–1778 	X 	X 	— 	—
+51 	Abraham Clark 	New Jersey 	1776–1778, 1780–1783, 1786–1788 	— 	X 	— 	—
+52 	William Clingan 	Pennsylvania 	1777–1779 	— 	— 	X 	—
+53 	George Clinton 	New York 	1775–1776 	— 	— 	— 	—
+54 	George Clymer 	Pennsylvania 	1776–1777, 1780–1782 	— 	X 	— 	X
+55 	John Collins 	Rhode Island 	1778–1780, 1782–1783 	— 	— 	X 	—
+56 	Silas Condict 	New Jersey 	1781–1783 	— 	— 	— 	—
+57 	Benjamin Contee 	Maryland 	1788 	— 	— 	— 	—
+58 	Joseph Platt Cooke 	Connecticut 	1784–1785, 1787–1788 	— 	— 	— 	—
+59 	Ezekiel Cornell 	Rhode Island 	1780–1782 	— 	— 	— 	—
+60 	Tench Coxe 	Pennsylvania 	1788–1789[7] 	— 	— 	— 	—
+61 	Stephen Crane 	New Jersey 	1774–1776 	X 	— 	— 	—
+62 	William Cumming 	North Carolina 	1785 	— 	— 	— 	—
+63 	Thomas Cushing 	Massachusetts 	1774–1776 	X 	— 	— 	—
+64 	Francis Dana 	Massachusetts 	1777–1778, 1784 	— 	— 	X 	—
+	Name 	State 	Years attended 	Association 	Declaration 	Confederation 	Constitution
+65 	Nathan Dane 	Massachusetts 	1785–1789[3] 	— 	— 	— 	—
+66 	John Dawson 	Virginia 	1788 	— 	— 	— 	—
+67 	Jonathan Dayton 	New Jersey 	1788–1789[3] 	— 	— 	— 	X
+68 	Silas Deane 	Connecticut 	1774–1776 	X 	— 	— 	—
+69 	John De Hart 	New Jersey 	1774–1775 [8] 	X 	— 	— 	—
+70 	Charles DeWitt 	New York 	1784 	— 	— 	— 	—
+71 	Samuel Dick 	New Jersey 	1784–1785 	— 	— 	— 	—
+72 	John Dickinson 	Delaware 	1779 	X (Pennsylvania) 	— 	X 	X
+72 	John Dickinson 	Pennsylvania 	1774–1776 	X 	— 	X (Delaware) 	X (Delaware)
+73 	Philemon Dickinson 	Delaware 	1782–1783 	— 	— 	— 	—
+74 	William Henry Drayton 	South Carolina 	1778–1779 	— 	— 	X 	—
+75 	James Duane 	New York 	1774–1783 	X 	— 	X 	—
+76 	William Duer 	New York 	1777–1779[3] 	— 	— 	X 	—
+77 	Eliphalet Dyer 	Connecticut 	1774–1779, 1782–1783 	X 	— 	— 	—
+78 	Pierpont Edwards 	Connecticut 	1788 	— 	— 	— 	—
+79 	William Ellery 	Rhode Island 	1776–1785 	— 	X 	X 	—
+80 	Oliver Ellsworth 	Connecticut 	1778–1783 	— 	— 	— 	—
+	Name 	State 	Years attended 	Association 	Declaration 	Confederation 	Constitution
+81 	Jonathan Elmer 	New Jersey 	1777–1778, 1781–1783, 1787–1788 	— 	— 	— 	—
+82 	Nicholas Eveleigh 	South Carolina 	1781–1782 	— 	— 	— 	—
+83 	John Fell 	New Jersey 	1778–1780 	— 	— 	— 	—
+84 	William Few 	Georgia 	1780–1782, 1786–1788 	— 	— 	— 	X
+85 	William Fitzhugh 	Virginia 	1779 	— 	— 	— 	—
+86 	Thomas Fitzsimons 	Pennsylvania 	1782–1783 	— 	— 	— 	X
+87 	William Fleming 	Virginia 	1779 	— 	— 	— 	—
+88 	William Floyd 	New York 	1774–1776, 1779–1783 	X 	X 	— 	—
+89 	Nathaniel Folsom 	New Hampshire 	1774, 1777–1780 	X 	— 	— 	—
+90 	James Forbes 	Maryland 	1778–1780 	— 	— 	— 	—
+91 	Uriah Forrest 	Maryland 	1787 	— 	— 	— 	—
+92 	Abiel Foster 	New Hampshire 	1783–1785 	— 	— 	— 	—
+93 	Benjamin Franklin 	Pennsylvania 	1775–1776 	— 	X 	— 	X
+94 	Frederick Frelinghuysen 	New Jersey 	1779, 1783[9] 	— 	— 	— 	—
+95 	George Frost 	New Hampshire 	1777–1779 	— 	— 	— 	—
+96 	Christopher Gadsden 	South Carolina 	1774–1776 	X 	— 	— 	—
+	Name 	State 	Years attended 	Association 	Declaration 	Confederation 	Constitution
+97 	Joseph Galloway 	Pennsylvania 	1774 	X 	— 	— 	—
+98 	Leonard Gansevoort 	New York 	1788 	— 	— 	— 	—
+99 	John Gardner 	Rhode Island 	1789 	— 	— 	— 	—
+100 	Joseph Gardner 	Pennsylvania 	1784–1785 	— 	— 	— 	—
+101 	David Gelston 	New York 	1789 	— 	— 	— 	—
+102 	Elbridge Gerry 	Massachusetts 	1776–1781, 1783–1785[3] 	— 	X 	X 	—
+103 	John Lewis Gervais 	South Carolina 	1782–1783 	— 	— 	— 	—
+104 	William Gibbons 	Georgia 	1784 	— 	— 	— 	—
+105 	John Taylor Gilman 	New Hampshire 	1782–1783 	— 	— 	— 	—
+106 	Nicholas Gilman 	New Hampshire 	1787–1789 	— 	— 	— 	X
+107 	Robert Goldsborough 	Maryland 	1774–1776 	— 	— 	— 	—
+108 	Nathaniel Gorham 	Massachusetts 	1782–1783, 1785–1787[3] 	— 	— 	— 	X
+109 	William Grayson 	Virginia 	1785–1787 	— 	— 	— 	—
+110 	Cyrus Griffin 	Virginia 	1778–1780, 1787–1788 	— 	— 	— 	—
+111 	Button Gwinnett 	Georgia 	1776 	— 	X 	— 	—
+112 	John Habersham 	Georgia 	1785 	— 	— 	— 	—
+	Name 	State 	Years attended 	Association 	Declaration 	Confederation 	Constitution
+113 	John Hall 	Maryland 	1775 	— 	— 	— 	—
+114 	Lyman Hall 	Georgia 	1775–1777 	— 	X 	— 	—
+115 	Alexander Hamilton 	New York 	1782–1783, 1788 	— 	— 	— 	X
+116 	John Hancock 	Massachusetts 	1775–1778 	— 	X 	X 	—
+117 	Edward Hand 	Pennsylvania 	1784–1785[3] 	— 	— 	— 	—
+118 	John Hanson 	Maryland 	1780–1782 	— 	— 	X 	—
+119 	Samuel Hardy 	Virginia 	1783–1785 	— 	— 	— 	—
+120 	John Haring 	New York 	1774, 1785–1787 	— 	— 	— 	—
+121 	Cornelius Harnett 	North Carolina 	1777–1779 	— 	— 	X 	—
+122 	Benjamin Harrison 	Virginia 	1774–1777 	X 	X 	— 	—
+123 	William Harrison Jr. 	Maryland 	1786 	— 	— 	— 	—
+124 	John Hart 	New Jersey 	1776 	— 	X 	— 	—
+125 	John Harvie 	Virginia 	1777–1778 	— 	— 	X 	—
+126 	Benjamin Hawkins 	North Carolina 	1781–1783, 1787 	— 	— 	— 	—
+127 	Jonathan Hazard 	Rhode Island 	1788 	— 	— 	— 	—
+128 	William Hemsley 	Maryland 	1782–1783 	— 	— 	— 	—
+	Name 	State 	Years attended 	Association 	Declaration 	Confederation 	Constitution
+129 	James Henry 	Virginia 	1780 	— 	— 	— 	—
+130 	John Henry 	Maryland 	1778–1780, 1785–1786 	— 	— 	— 	—
+131 	Patrick Henry 	Virginia 	1774–1775 	X 	— 	— 	—
+132 	William Henry 	Pennsylvania 	1784–1785 	— 	— 	— 	—
+133 	Joseph Hewes 	North Carolina 	1774–1776, 1779 	X 	X 	— 	—
+134 	Thomas Heyward Jr. 	South Carolina 	1776–1778 	— 	X 	X 	—
+135 	Stephen Higginson 	Massachusetts 	1783 	— 	— 	— 	—
+136 	Whitmell Hill 	North Carolina 	1778–1780 	— 	— 	— 	—
+137 	William Hindman 	Maryland 	1785–1786 	— 	— 	— 	—
+138 	Samuel Holten 	Massachusetts 	1778–1780, 1783–1785, 1787 	— 	— 	X 	—
+139 	William Hooper 	North Carolina 	1774–1777 	X 	X 	— 	—
+140 	Stephen Hopkins 	Rhode Island 	1774–1776 	X 	X 	— 	—
+141 	Francis Hopkinson 	New Jersey 	1776 	— 	X 	— 	—
+142 	Josiah Hornblower 	New Jersey 	1785–1786 	— 	— 	— 	—
+143 	Titus Hosmer 	Connecticut 	1778 	— 	— 	X 	—
+144 	William Houston 	New Jersey 	1779–1781, 1784–1785 	— 	— 	— 	—
+	Name 	State 	Years attended 	Association 	Declaration 	Confederation 	Constitution
+145 	John Houstoun 	Georgia 	1775 	— 	— 	— 	—
+146 	William Houstoun 	Georgia 	1784–1786 	— 	— 	— 	—
+147 	John Eager Howard 	Maryland 	1788 	— 	— 	— 	—
+148 	David Howell 	Rhode Island 	1782–1785 	— 	— 	— 	—
+149 	Richard Howly 	Georgia 	1780–1781 	— 	— 	— 	—
+150 	Daniel Huger 	South Carolina 	1786–1788 	— 	— 	— 	—
+151 	Charles Humphreys 	Pennsylvania 	1774–1776 	X 	— 	— 	—
+152 	Benjamin Huntington 	Connecticut 	1780, 1782–1783, 1788 	— 	— 	— 	—
+153 	Samuel Huntington 	Connecticut 	1776, 1778–1781, 1783 	— 	X 	X 	—
+154 	Richard Hutson 	South Carolina 	1778–1779 	— 	— 	X 	—
+155 	Jared Ingersoll 	Pennsylvania 	1780 	— 	— 	— 	X
+156 	William Irvine 	Pennsylvania 	1787–1788 	— 	— 	— 	—
+157 	Ralph Izard 	South Carolina 	1782–1783 	— 	— 	— 	—
+158 	David Jackson 	Pennsylvania 	1785 	— 	— 	— 	—
+159 	Jonathan Jackson 	Massachusetts 	1782 	— 	— 	— 	—
+160 	John Jay 	New York 	1774–1776, 1778–1779 	X 	— 	— 	—
+	Name 	State 	Years attended 	Association 	Declaration 	Confederation 	Constitution
+161 	Thomas Jefferson 	Virginia 	1775–1776, 1783–1784 	— 	X 	— 	—
+162 	Daniel of St. Thomas Jenifer 	Maryland 	1779–1781 	— 	— 	— 	X
+163 	Thomas Johnson 	Maryland 	1774–1776 	X 	— 	— 	—
+164 	William Samuel Johnson 	Connecticut 	1785–1787 	— 	— 	— 	X
+165 	Samuel Johnston 	North Carolina 	1780–1781 	— 	— 	— 	—
+166 	Allen Jones 	North Carolina 	1779–1780 	— 	— 	— 	—
+167 	Joseph Jones 	Virginia 	1777, 1780–1783 	— 	— 	— 	—
+168 	Noble Wimberly Jones 	Georgia 	1781–1782 [10] 	— 	— 	— 	—
+169 	Willie Jones 	North Carolina 	1780–1781[3] 	— 	— 	— 	—
+170 	John Kean 	South Carolina 	1785–1787 	— 	— 	— 	—
+171 	Dyre Kearney 	Delaware 	1787–1788 	— 	— 	— 	—
+172 	Rufus King 	Massachusetts 	1784–1787 	— 	— 	— 	X
+173 	Francis Kinloch 	South Carolina 	1780 	— 	— 	— 	—
+174 	James Kinsey 	New Jersey 	1774–1775 	X 	— 	— 	—
+175 	John Langdon 	New Hampshire 	1775–1776, 1783–1784 [3] 	— 	— 	— 	X
+176 	Woodbury Langdon 	New Hampshire 	1779 	— 	— 	— 	—
+	Name 	State 	Years attended 	Association 	Declaration 	Confederation 	Constitution
+177 	Edward Langworthy 	Georgia 	1777–1779 	— 	— 	X 	—
+178 	John Lansing Jr. 	New York 	1785 	— 	— 	— 	—
+179 	John Laurance 	New York 	1785–1787 	— 	— 	— 	—
+180 	Henry Laurens 	South Carolina 	1777–1780 	— 	— 	X 	—
+181 	Richard Law 	Connecticut 	1777, 1781–1782 [11] 	— 	— 	— 	—
+182 	Arthur Lee 	Virginia 	1782–1784 	— 	— 	— 	—
+183 	Francis Lightfoot Lee 	Virginia 	1775–1779 	— 	X 	X 	—
+184 	Henry Lee 	Virginia 	1786–1788 	— 	— 	— 	—
+185 	Richard Henry Lee 	Virginia 	1774–1779, 1784–1785, 1787 	X 	X 	X 	—
+186 	Thomas Sim Lee 	Maryland 	1783 	— 	— 	— 	—
+187 	Francis Lewis 	New York 	1775–1779 	— 	X 	X 	—
+188 	Ezra L'Hommedieu 	New York 	1779–1783, 1788 	— 	— 	— 	—
+189 	Samuel Livermore 	New Hampshire 	1780–1782, 1785–1786 	— 	— 	— 	—
+190 	Philip Livingston 	New York 	1774–1778[3] 	X 	X 	— 	—
+191 	Robert R. Livingston 	New York 	1775–1776, 1779–1780, 1784 	— 	— 	— 	—
+192 	Walter Livingston 	New York 	1784–1785 	— 	— 	— 	—
+	Name 	State 	Years attended 	Association 	Declaration 	Confederation 	Constitution
+193 	William Livingston 	New Jersey 	1774–1776 	X 	— 	— 	X
+194 	Edward Lloyd 	Maryland 	1783–1784 	— 	— 	— 	—
+195 	Pierse Long 	New Hampshire 	1785–1786 	— 	— 	— 	—
+196 	James Lovell 	Massachusetts 	1777–1782 	— 	— 	X 	—
+197 	Isaac Low 	New York 	1774 	X 	— 	— 	—
+198 	John Lowell 	Massachusetts 	1782 	— 	— 	— 	—
+199 	Thomas Lynch 	South Carolina 	1774–1776 	X 	— 	— 	—
+200 	Thomas Lynch Jr. 	South Carolina 	1775–1776 	— 	X 	— 	—
+201 	James Madison 	Virginia 	1780–1783, 1787–1788 	— 	— 	X 	X
+202 	James Manning 	Rhode Island 	1786 	— 	— 	— 	—
+203 	Henry Marchant 	Rhode Island 	1777–1779 	— 	— 	X 	—
+204 	John Mathews 	South Carolina 	1778–1781 	— 	— 	X 	—
+205 	Timothy Matlack 	Pennsylvania 	1780 	— 	— 	— 	—
+206 	Eleazer McComb 	Delaware 	1783–1784 	— 	— 	— 	—
+207 	Alexander McDougall 	New York 	1781 	— 	— 	— 	—
+208 	James McHenry 	Maryland 	1783–1785 	— 	— 	— 	X
+	Name 	State 	Years attended 	Association 	Declaration 	Confederation 	Constitution
+209 	Thomas McKean 	Delaware 	1774–1776, 1778–1782 	X 	X 	X 	—
+210 	James McLene 	Pennsylvania 	1779–1780 	— 	— 	— 	—
+211 	James Mercer 	Virginia 	1779 	— 	— 	— 	—
+212 	John Francis Mercer 	Virginia 	1783–1784 	— 	— 	— 	—
+213 	Samuel Meredith 	Pennsylvania 	1786–1788 	— 	— 	— 	—
+214 	Arthur Middleton 	South Carolina 	1776–1777, 1781–1782 	— 	X 	— 	—
+215 	Henry Middleton 	South Carolina 	1774–1775 	X 	— 	— 	—
+216 	Thomas Mifflin 	Pennsylvania 	1774–1775, 1782–1784 	X 	— 	— 	X
+217 	Nathan Miller 	Rhode Island 	1786 	— 	— 	— 	—
+218 	Nathaniel Mitchell 	Delaware 	1787–1788 	— 	— 	— 	—
+219 	Stephen Mix Mitchell 	Connecticut 	1785–1788 	— 	— 	— 	—
+220 	James Monroe 	Virginia 	1783–1786 	— 	— 	— 	—
+221 	John Montgomery 	Pennsylvania 	1782–1784 	— 	— 	— 	—
+222 	Joseph Montgomery 	Pennsylvania 	1780–1782 	— 	— 	— 	—
+223 	Cadwalader Morris 	Pennsylvania 	1783–1784 	— 	— 	— 	—
+224 	Gouverneur Morris 	New York 	1778–1779 	— 	— 	X 	X
+	Name 	State 	Years attended 	Association 	Declaration 	Confederation 	Constitution
+225 	Lewis Morris 	New York 	1775–1777 	— 	X 	— 	—
+226 	Robert Morris 	Pennsylvania 	1775–1778 	— 	X 	X 	X
+227 	John Morton 	Pennsylvania 	1774–1776 	X 	X 	— 	—
+228 	Isaac Motte 	South Carolina 	1780–1782 	— 	— 	— 	—
+229 	Daniel Mowry Jr. 	Rhode Island 	1780–1782 	— 	— 	— 	—
+230 	Frederick Muhlenberg 	Pennsylvania 	1779–1780 	— 	— 	— 	—
+231 	Abner Nash 	North Carolina 	1782–1783 	— 	— 	— 	—
+232 	Thomas Nelson Jr. 	Virginia 	1775–1777, 1779 	— 	X 	— 	—
+233 	Samuel Osgood 	Massachusetts 	1781–1784 	— 	— 	— 	—
+234 	Samuel Allyne Otis 	Massachusetts 	1787–1788 	— 	— 	— 	—
+235 	William Paca 	Maryland 	1774–1779 	X 	X 	— 	—
+236 	Mann Page 	Virginia 	1777 	— 	— 	— 	—
+237 	Ephraim Paine 	New York 	1784 	— 	— 	— 	—
+238 	Robert Treat Paine 	Massachusetts 	1774–1776 	X 	X 	— 	—
+239 	John Parker 	South Carolina 	1786–1788 	— 	— 	— 	—
+240 	George Partridge 	Massachusetts 	1779–1785 	— 	— 	— 	—
+	Name 	State 	Years attended 	Association 	Declaration 	Confederation 	Constitution
+241 	John Patten 	Delaware 	1786 	— 	— 	— 	—
+242 	Nathaniel Peabody 	New Hampshire 	1779–1780 [12] 	— 	— 	— 	—
+243 	William Peery 	Delaware 	1786 	— 	— 	— 	—
+244 	Philip Pell 	New York 	1789 	— 	— 	— 	—
+245 	Edmund Pendleton 	Virginia 	1774–1775 	X 	— 	— 	—
+246 	John Penn 	North Carolina 	1775–1780 	— 	X 	X 	—
+247 	Richard Peters Jr. 	Pennsylvania 	1782–1783 	— 	— 	— 	—
+248 	Charles Pettit 	Pennsylvania 	1785–1787 	— 	— 	— 	—
+249 	William Pierce 	Georgia 	1787 	— 	— 	— 	—
+250 	Charles Pinckney 	South Carolina 	1784–1787[3] 	— 	— 	— 	X
+251 	George Plater 	Maryland 	1778–1780 	— 	— 	— 	—
+252 	Zephaniah Platt 	New York 	1785–1786 	— 	— 	— 	—
+253 	Richard Potts 	Maryland 	1781 	— 	— 	— 	—
+254 	David Ramsay 	South Carolina 	1782–1783, 1785–1786 	— 	— 	— 	—
+255 	Nathaniel Ramsey 	Maryland 	1786–1787 	— 	— 	— 	—
+256 	Edmund Randolph 	Virginia 	1779, 1781–1782 	— 	— 	— 	—
+	Name 	State 	Years attended 	Association 	Declaration 	Confederation 	Constitution
+257 	Peyton Randolph 	Virginia 	1774–1775 	X 	— 	— 	—
+258 	George Read 	Delaware 	1774–1777 	X 	X 	— 	X
+259 	Jacob Read 	South Carolina 	1783–1785 	— 	— 	— 	—
+260 	Joseph Reed 	Pennsylvania 	1778 	— 	— 	X 	—
+261 	James Randolph Reid 	Pennsylvania 	1787–1789 	— 	— 	— 	—
+262 	Samuel Rhoads 	Pennsylvania 	1774 	— 	— 	— 	—
+263 	Daniel Roberdeau 	Pennsylvania 	1777–1779 	— 	— 	X 	—
+264 	Caesar Rodney 	Delaware 	1774–1776 	X 	X 	— 	—
+265 	Thomas Rodney 	Delaware 	1781–1782, 1786 	— 	— 	— 	—
+266 	John Rogers 	Maryland 	1775–1776 	— 	— 	— 	—
+267 	Jesse Root 	Connecticut 	1778–1782 	— 	— 	— 	—
+268 	David Ross 	Maryland 	1787–1789 	— 	— 	— 	—
+269 	George Ross 	Pennsylvania 	1774–1777 	X 	X 	— 	—
+270 	Benjamin Rumsey 	Maryland 	1776–1777 	— 	— 	— 	—
+271 	Benjamin Rush 	Pennsylvania 	1776–1777 	— 	X 	— 	—
+272 	Edward Rutledge 	South Carolina 	1774–1776 	X 	X 	— 	—
+	Name 	State 	Years attended 	Association 	Declaration 	Confederation 	Constitution
+273 	John Rutledge 	South Carolina 	1774–1775, 1782–1783 	X 	— 	— 	X
+274 	James Schureman 	New Jersey 	1786–1787 	— 	— 	— 	—
+275 	Philip Schuyler 	New York 	1775, 1777, 1779–1780 	— 	— 	— 	—
+276 	John Morin Scott 	New York 	1780–1783[3] 	— 	— 	— 	—
+277 	Nathaniel Scudder 	New Jersey 	1778–1779 	— 	— 	X 	—
+278 	James Searle 	Pennsylvania 	1778–1780 	— 	— 	— 	—
+279 	Theodore Sedgwick 	Massachusetts 	1785–1786, 1788 	— 	— 	— 	—
+280 	Joshua Seney 	Maryland 	1788 	— 	— 	— 	—
+281 	Jonathan Sergeant 	New Jersey 	1776–1777 	— 	— 	— 	—
+282 	William Sharpe 	North Carolina 	1779–1781 	— 	— 	— 	—
+283 	Roger Sherman 	Connecticut 	1774–1781, 1784 	X 	X 	X 	X
+284 	William Shippen 	Pennsylvania 	1779–1780 	— 	— 	— 	—
+285 	John Sitgreaves 	North Carolina 	1785 	— 	— 	— 	—
+286 	James Smith 	Pennsylvania 	1776–1778 	— 	X 	— 	—
+287 	Jonathan Bayard Smith 	Pennsylvania 	1777–1778 	— 	— 	X 	—
+288 	Melancton Smith 	New York 	1785–1787 	— 	— 	— 	—
+	Name 	State 	Years attended 	Association 	Declaration 	Confederation 	Constitution
+289 	Meriwether Smith 	Virginia 	1778, 1780–1781[13] 	— 	— 	— 	—
+290 	Richard Smith 	New Jersey 	1774–1776 	X 	— 	— 	—
+291 	Thomas Smith 	Pennsylvania 	1781–1782 	— 	— 	— 	—
+292 	William Smith 	Maryland 	1777 	— 	— 	— 	—
+293 	Richard Dobbs Spaight 	North Carolina 	1783–1785 	— 	— 	— 	X
+294 	Joseph Spencer 	Connecticut 	1779 	— 	— 	— 	—
+295 	Arthur St. Clair 	Pennsylvania 	1786–1787 	— 	— 	— 	—
+296 	John Stevens 	New Jersey 	1784 	— 	— 	— 	—
+297 	Charles Stewart 	New Jersey 	1784–1785 	— 	— 	— 	—
+298 	Richard Stockton 	New Jersey 	1776 	— 	X 	— 	—
+299 	Thomas Stone 	Maryland 	1775–1776, 1778, 1784 	— 	X 	— 	—
+300 	Jonathan Sturges 	Connecticut 	1786 	— 	— 	— 	—
+301 	John Sullivan 	New Hampshire 	1774–1775, 1780–1781 	X 	— 	— 	—
+302 	John Swann 	North Carolina 	1788 	— 	— 	— 	—
+303 	James Sykes 	Delaware 	1777 	— 	— 	— 	—
+304 	John Cleves Symmes 	New Jersey 	1785–1786 	— 	— 	— 	—
+	Name 	State 	Years attended 	Association 	Declaration 	Confederation 	Constitution
+305 	George Taylor 	Pennsylvania 	1776 	— 	X 	— 	—
+306 	Edward Telfair 	Georgia 	1778, 1780–1782 	— 	— 	X 	—
+307 	George Thatcher 	Massachusetts 	1787–1789 	— 	— 	— 	—
+308 	Matthew Thornton 	New Hampshire 	1776–1777 	— 	X 	— 	—
+309 	Matthew Tilghman 	Maryland 	1774–1776 	X 	— 	— 	—
+310 	James Tilton 	Delaware 	1783–1784 	— 	— 	— 	—
+311 	Thomas Tudor Tucker 	South Carolina 	1787–1788 	— 	— 	— 	—
+312 	Nicholas Van Dyke 	Delaware 	1777–1781 	— 	— 	X 	—
+313 	James Mitchell Varnum 	Rhode Island 	1780–1781, 1787 	— 	— 	— 	—
+314 	John M. Vining 	Delaware 	1784–1785 	— 	— 	— 	—
+315 	James Wadsworth 	Connecticut 	1784 	— 	— 	— 	—
+316 	Jeremiah Wadsworth 	Connecticut 	1788 	— 	— 	— 	—
+317 	John Walker 	Virginia 	1780 	— 	— 	— 	—
+318 	George Walton 	Georgia 	1776–1777, 1780–1781 	— 	X 	X 	—
+319 	John Walton 	Georgia 	1778 	— 	— 	— 	—
+320 	Artemas Ward 	Massachusetts 	1780–1781 	— 	— 	— 	—
+	Name 	State 	Years attended 	Association 	Declaration 	Confederation 	Constitution
+321 	Samuel Ward 	Rhode Island 	1774–1776 	X 	— 	— 	—
+322 	George Washington 	Virginia 	1774–1775 	X 	— 	— 	X
+323 	John Wentworth Jr. 	New Hampshire 	1778 	— 	— 	X 	—
+324 	Samuel Wharton 	Delaware 	1782–1783 	— 	— 	— 	—
+325 	William Whipple 	New Hampshire 	1776–1779 	— 	X 	— 	—
+326 	James White 	North Carolina 	1786–1788 	— 	— 	— 	—
+327 	Phillips White 	New Hampshire 	1782–1783 	— 	— 	— 	—
+328 	John Williams 	North Carolina 	1778–1779 	— 	— 	X 	—
+329 	William Williams 	Connecticut 	1776–1777 	— 	X 	— 	—
+330 	Hugh Williamson 	North Carolina 	1782–1785, 1787–1789[3] 	— 	— 	— 	X
+331 	Thomas Willing 	Pennsylvania 	1775–1776 	— 	— 	— 	—
+332 	James Wilson 	Pennsylvania 	1775–1777, 1783, 1785–1786 	— 	X 	— 	X
+333 	Paine Wingate 	New Hampshire 	1788 	— 	— 	— 	—
+334 	Henry Wisner 	New York 	1774–1776[3] 	X 	— 	— 	—
+335 	John Witherspoon 	New Jersey 	1776–1782 	— 	X 	X 	—
+336 	Oliver Wolcott 	Connecticut 	1776–1778, 1780–1783 	— 	X 	X 	—
+337 	Joseph Wood 	Georgia 	1777–1778 	— 	— 	— 	—
+338 	Turbutt Wright 	Maryland 	1782 	— 	— 	— 	—
+339 	Henry Wynkoop 	Pennsylvania 	1779–1782 	— 	— 	— 	—
+340 	George Wythe 	Virginia 	1775–1776 	— 	X 	— 	—
+341 	Abraham Yates 	New York 	1787–1788 	— 	— 	— 	—
+342 	Peter W. Yates 	New York 	1786 	— 	— 	— 	—
+343 	John Joachim Zubly 	Georgia 	1775 	— 	— 	— 	—
+	Name 	State 	Years attended 	Association 	Declaration 	Confederation 	Constitution
+Elected but did not attend
+
+This table shows those who were elected as delegates to the Continental Congress but never attended a session. All data is from the Biographical Directory of the United States Congress.
+# 	Name 	State 	Years elected
+1 	Benjamin Andrew 	Georgia 	1780
+2 	Samuel Ashley 	New Hampshire 	1779
+3 	George Atkinson 	New Hampshire 	1780, 1785
+4 	John Barnwell 	South Carolina 	1784
+5 	Gunning Bedford Sr. 	Delaware 	1786
+6 	Benjamin Bellows 	New Hampshire 	1781
+7 	John Blair, Jr. 	Virginia 	1781
+8 	James Bowdoin 	Massachusetts 	1774
+9 	William Bradford 	Rhode Island 	1776
+10 	Ephraim Brevard 	North Carolina 	1781
+11 	John Brown 	Rhode Island 	1784, 1785
+12 	John Canfield 	Connecticut 	1786
+13 	George Champlin 	Rhode Island 	1785, 1786
+14 	Charles C. Chandler 	Connecticut 	1784
+15 	John Chester 	Connecticut 	1787, 1788
+16 	Matthew Clarkson 	Pennsylvania 	1785
+17 	Joseph Clay 	Georgia 	1778
+18 	John Cooper 	New Jersey 	1776
+19 	Tristram Dalton 	Massachusetts 	1783, 1784
+20 	Timothy Danielson 	Massachusetts 	1780, 1782, 1783
+21 	Elias Dayton 	New Jersey 	1778
+22 	Moses Dow 	New Hampshire 	1784
+23 	Samuel Duffield 	Pennsylvania 	1777
+24 	Timothy Edwards 	Massachusetts 	1778
+25 	Samuel Elbert 	Georgia 	1784
+26 	John Evans 	Delaware 	1776
+27 	Sylvester Gardner 	Rhode Island 	1787
+28 	Edward Giles 	Maryland 	1782
+29 	Alexander Gillon 	South Carolina 	1784
+30 	Isaac Grantham 	Delaware 	1787
+31 	James Gunn 	Georgia 	1787
+32 	Joseph Habersham 	Georgia 	1784
+33 	John Hathorn 	New York 	1788[14]
+34 	Thomas Henderson 	New Jersey 	1779
+35 	James Hillhouse 	Connecticut 	1786, 1788
+36 	William Hillhouse 	Connecticut 	1783, 1785
+37 	Thomas Holden 	Rhode Island 	1788, 1789
+38 	Charles Johnson 	North Carolina 	1781, 1784, 1785
+39 	Gabriel Jones 	Virginia 	1779
+40 	Samuel Jones 	New York 	1788
+41 	Henry Latimer 	Delaware 	1784
+42 	Levi Lincoln 	Massachusetts 	1781
+43 	Rawlins Lowndes 	South Carolina 	1779
+44 	Nathaniel Macon 	North Carolina 	1785
+45 	Daniel Manton 	Rhode Island 	1787
+46 	Alexander Martin 	North Carolina 	1786
+47 	Luther Martin 	Virginia 	1784
+48 	George Mason 	Virginia 	1777
+49 	Joseph McDowell 	North Carolina 	1787
+50 	Lachlan McIntosh 	Georgia 	1784
+51 	John McKinly 	Delaware 	1784
+52 	William Montgomery 	Pennsylvania 	1784
+53 	William Moore 	Pennsylvania 	1777
+54 	William Moultrie 	South Carolina 	1784
+55 	Paul Mumford 	Rhode Island 	1785
+56 	John Neilson 	New Jersey 	1778[15]
+57 	Joseph Nicholson 	Maryland 	1777
+58 	William O'Bryen 	Georgia 	1789
+59 	Adlai Osborne 	North Carolina 	1784
+60 	Henry Osborne 	Georgia 	1786
+61 	William Paterson 	New Jersey 	1780, 1787
+62 	Samuel Patterson 	Delaware 	1784
+63 	Elisha Payne 	New Hampshire 	1784
+64 	Nathaniel Pendleton 	Georgia 	1789
+65 	Thomas Person 	North Carolina 	1784
+66 	Peter Philips 	Rhode Island 	1785
+67 	John Pickering 	New Hampshire 	1787
+68 	William Pitkin 	Connecticut 	1784
+69 	Thomas Polk 	North Carolina 	1786
+70 	Richard Ridgely 	Maryland 	1784, 1785
+71 	Gustavus Scott 	Maryland 	1784
+72 	William Smallwood 	Maryland 	1784
+73 	Benjamin Smith 	North Carolina 	1784
+74 	John Sparhawk 	New Hampshire 	1786
+75 	Samuel Stirk 	Georgia 	1781
+76 	John Stokes 	North Carolina 	1787
+77 	Caleb Strong 	Massachusetts 	1780
+78 	Jedediah Strong 	Connecticut 	1782, 1784, 1784
+79 	James Sullivan 	Massachusetts 	1782, 1783
+80 	Thomas Sumter 	South Carolina 	1783
+81 	Ebenezer Thompson 	New Hampshire 	1778, 1783
+82 	John Treadwell 	Connecticut 	1784, 1785, 1787
+83 	Paul Trapier 	South Carolina 	1777
+84 	Joseph Trumbull 	Connecticut 	1774
+85 	Timothy Walker Jr. 	New Hampshire 	1777, 1778, 1782, 1785
+86 	James Warren 	Massachusetts 	1782
+87 	Joshua Wentworth 	New York 	1779
+88 	Benjamin West 	New Hampshire 	1787
+89 	Stephen West 	Virginia 	1780
+90 	Erastus Wolcott 	North Carolina 	1774, 1787, 1788 
