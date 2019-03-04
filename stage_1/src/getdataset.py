@@ -60,9 +60,10 @@ def tokenize(filePath):
     file  = open(filePath, 'r')
     lines =  file.readlines()
     file.close()
+    tag = 'name'
     tokens = []
     for l in lines:
-        words = re.split('(\\W)', l)
+        words = re.split('(\\<'+tag+'\\>|\\<\\/'+tag+'\\>|\\W)', l)
         for w in words:
             w = w.strip()
             if len(l)>0:
