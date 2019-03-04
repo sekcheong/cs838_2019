@@ -6,9 +6,9 @@
 - Sek Cheong, sucheong@wisc.edu
 
 ## Project Stage 1
- - [The directory that stores the 300+ documents] (https://github.com/sekcheong/cs838_2019/tree/master/stage_1/txt)
- - Documents in set I
- - Documents in set J
- - Source code
+ - [The directory that stores the 300+ documents](https://github.com/sekcheong/cs838_2019/tree/master/stage_1/data/txt)
+ - [Documents in set I](https://github.com/sekcheong/cs838_2019/tree/master/stage_1/data/I)
+ - [Documents in set J](https://github.com/sekcheong/cs838_2019/tree/master/stage_1/data/J)
+ - [Source code](https://github.com/sekcheong/cs838_2019/tree/master/stage_1/src)
  - Compressed files
- - Results 
+ - [Results](https://github.com/sekcheong/cs838_2019/blob/master/stage_1/results.pdf) 
