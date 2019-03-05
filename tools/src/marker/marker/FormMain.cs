@@ -22,7 +22,23 @@ namespace marker
 
         private void SetText(string text)
         {
+            textBox1.Clear();
             textBox1.Text = text;
+        }
+
+        protected override bool ProcessCmdKey(ref Message msg, Keys keyData)
+        {
+            if (keyData == (Keys.Control | Keys.Q)) {
+                btnMark_Click(null,null);
+                return true;
+            }
+            else if (keyData == (Keys.Control | Keys.S)) {
+                btnSave_Click(null, null);
+            }
+            else if (keyData == (Keys.Control | Keys.R)) {
+                btnOpen_Click(null, null);
+            }
+            return base.ProcessCmdKey(ref msg, keyData);
         }
 
         private void btnOpen_Click(object sender, EventArgs e)
