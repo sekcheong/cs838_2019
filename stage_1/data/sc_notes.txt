@@ -1,0 +1,37 @@
+
+Preceeding word ends in "er, person, chariman, spokesman, eer, or, etc" ex: Spokesperson David Jones
+Preceeded by "Mr", "Ms", "Miss", "Dr", "Prof", "Professor", "Lord", "Father", "Fr", "Rabbi", "Cardinal", "Sir", "Chancellor", "President", "CEO", "Minister", Chef",   "solicitor", "MPS" ex: Mr Howard
+Followed by ","
+Followed by ", who"
+Followed by "by"
+Followed by "said" ex: Doug Hogg said he...
+Does not contain number or symbol
+Capitalized  ex: David Allen
+Not preceed by "the, a, an, these, etc"
+Preceed by "minister, actor, actress, etc"
+Followed by "has"
+Followed by "'s"  ex: Mr. Gordon Brown's pre...
+Is his/her in vicinity 
+Followed by a "-"
+Followed by "told"
+Followed by "MP" ex: Margaret Moran MP...
+Preceed by "MP", ex: Labor MP Barry Sheerman
+Preceed by "Chief", "Leader"
+Is it all caps?
+Preceed by a profession such as "Journalist", ex:Newsnight journalist Andrew McFadyen...
+Followed by "will"
+Words like founder, supervisior in vicinity
+Preceed by a name and a "and", ex: Tony Blair and ro8uth Kelly
+Followed by himself, ex: Mike Thomson hemself was...
+Followed by a past participle, ex: Joe Six was accused of ... 
+Proceeed by "while"
+Followed by "is"
+Followed by "asked"
+Is hyphenated word
+Preceed by "to"
+Preceed by "-"
+Preceed by O', ex: O'Connor
+Followed by a "," ex: and number Mr Smith, 28 
+Preceed by nothing or "." followed by ",", ex: 
+
+Begining of a sentence
