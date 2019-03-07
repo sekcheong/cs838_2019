@@ -28,7 +28,7 @@ namespace marker
 
         protected override bool ProcessCmdKey(ref Message msg, Keys keyData)
         {
-            if (keyData == (Keys.Control | Keys.Q)) {
+            if (keyData == (Keys.Control | Keys.F)) {
                 btnMark_Click(null,null);
                 return true;
             }

@@ -1,6 +1,6 @@
 
 Preceeding word ends in "er, person, chariman, spokesman, eer, or, etc" ex: Spokesperson David Jones
-Preceeded by "Mr", "Ms", "Miss", "Dr", "Prof", "Professor", "Lord", "Father", "Fr", "Rabbi", "Cardinal", "Sir", "Chancellor", "President", "CEO", "Minister", Chef",   "solicitor", "MPS" ex: Mr Howard
+Preceeded by "Mr", "Ms", "Miss", "Dr", "Prof", "Professor", "Lord", "Rev", Father", "Fr", "Rabbi", "Cardinal", "Sir", "Chancellor", "President", "CEO", "Minister", Chef",  "Boss", "solicitor", "MPS", "Secretary", "executive " "Judge" ex: Mr Howard
 Followed by ","
 Followed by ", who"
 Followed by "by"
@@ -24,7 +24,7 @@ Words like founder, supervisior in vicinity
 Preceed by a name and a "and", ex: Tony Blair and ro8uth Kelly
 Followed by himself, ex: Mike Thomson hemself was...
 Followed by a past participle, ex: Joe Six was accused of ... 
-Proceeed by "while"
+Proceeed by "while", "should"
 Followed by "is"
 Followed by "asked"
 Is hyphenated word
@@ -35,3 +35,5 @@ Followed by a "," ex: and number Mr Smith, 28
 Preceed by nothing or "." followed by ",", ex: 
 
 Begining of a sentence
+
+The word mentioned in prvious context?

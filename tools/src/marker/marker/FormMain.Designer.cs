@@ -45,13 +45,13 @@
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
             this.textBox1.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.textBox1.Size = new System.Drawing.Size(750, 944);
+            this.textBox1.Size = new System.Drawing.Size(952, 1265);
             this.textBox1.TabIndex = 0;
             this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // btnMark
             // 
-            this.btnMark.Location = new System.Drawing.Point(785, 64);
+            this.btnMark.Location = new System.Drawing.Point(970, 68);
             this.btnMark.Name = "btnMark";
             this.btnMark.Size = new System.Drawing.Size(105, 31);
             this.btnMark.TabIndex = 1;
@@ -61,7 +61,7 @@
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(785, 36);
+            this.textBox2.Location = new System.Drawing.Point(970, 40);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(105, 22);
             this.textBox2.TabIndex = 2;
@@ -70,7 +70,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(786, 10);
+            this.label1.Location = new System.Drawing.Point(971, 14);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(37, 17);
             this.label1.TabIndex = 3;
@@ -82,7 +82,7 @@
             // 
             // btnOpen
             // 
-            this.btnOpen.Location = new System.Drawing.Point(785, 887);
+            this.btnOpen.Location = new System.Drawing.Point(970, 161);
             this.btnOpen.Name = "btnOpen";
             this.btnOpen.Size = new System.Drawing.Size(105, 31);
             this.btnOpen.TabIndex = 4;
@@ -93,7 +93,7 @@
             // btnSave
             // 
             this.btnSave.Enabled = false;
-            this.btnSave.Location = new System.Drawing.Point(785, 924);
+            this.btnSave.Location = new System.Drawing.Point(970, 198);
             this.btnSave.Name = "btnSave";
             this.btnSave.Size = new System.Drawing.Size(105, 31);
             this.btnSave.TabIndex = 5;
@@ -103,16 +103,16 @@
             // 
             // textBox3
             // 
-            this.textBox3.Location = new System.Drawing.Point(785, 859);
+            this.textBox3.Location = new System.Drawing.Point(970, 133);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(105, 22);
             this.textBox3.TabIndex = 6;
-            this.textBox3.Text = "SC";
+            this.textBox3.Text = "SC_E";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(786, 839);
+            this.label2.Location = new System.Drawing.Point(971, 113);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(47, 17);
             this.label2.TabIndex = 7;
@@ -122,7 +122,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(903, 963);
+            this.ClientSize = new System.Drawing.Size(1094, 1289);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.textBox3);
             this.Controls.Add(this.btnSave);
