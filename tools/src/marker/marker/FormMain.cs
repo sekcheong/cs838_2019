@@ -84,7 +84,7 @@ namespace marker
                 var path = Path.GetDirectoryName(_fileName);
                 var p = path.Split(new char[] {'\\'});
                 var cat = p[p.Length - 1];
-                var filePath = Path.Combine(path, "SC"+fname);
+                var filePath = Path.Combine(path, textBoxPrefix.Text+fname);
                 var sr = new StreamWriter(filePath);
                 var txt = textBox1.Text;                  
                 sr.WriteLine(txt);

@@ -34,7 +34,7 @@
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
             this.btnOpen = new System.Windows.Forms.Button();
             this.btnSave = new System.Windows.Forms.Button();
-            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.textBoxPrefix = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
@@ -101,13 +101,13 @@
             this.btnSave.UseVisualStyleBackColor = true;
             this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
             // 
-            // textBox3
+            // textBoxPrefix
             // 
-            this.textBox3.Location = new System.Drawing.Point(970, 133);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(105, 22);
-            this.textBox3.TabIndex = 6;
-            this.textBox3.Text = "SC_E";
+            this.textBoxPrefix.Location = new System.Drawing.Point(970, 133);
+            this.textBoxPrefix.Name = "textBoxPrefix";
+            this.textBoxPrefix.Size = new System.Drawing.Size(105, 22);
+            this.textBoxPrefix.TabIndex = 6;
+            this.textBoxPrefix.Text = "SC_E";
             // 
             // label2
             // 
@@ -124,7 +124,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1094, 1289);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.textBox3);
+            this.Controls.Add(this.textBoxPrefix);
             this.Controls.Add(this.btnSave);
             this.Controls.Add(this.btnOpen);
             this.Controls.Add(this.label1);
@@ -149,7 +149,7 @@
         private System.Windows.Forms.OpenFileDialog openFileDialog1;
         private System.Windows.Forms.Button btnOpen;
         private System.Windows.Forms.Button btnSave;
-        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.TextBox textBoxPrefix;
         private System.Windows.Forms.Label label2;
     }
 }
