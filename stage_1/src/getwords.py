@@ -3,6 +3,7 @@ import os
 import re
 import unicodedata
 import glob
+import nltk
 
 def strip_accents(text):
     try:
@@ -15,17 +16,19 @@ def strip_accents(text):
     return str(text)
 
 def tokenize(filePath):
+    ps = nltk.PorterStemmer()
     file  = open(filePath, 'r')
     lines =  file.readlines()
     file.close()
     tag = 'name'
     tokens = []
     for l in lines:
-        words = re.split('(\\<'+tag+'\\>|\\<\\/'+tag+'\\>|\\W)', l)
+        #words = re.split('(\\<'+tag+'\\>|\\<\\/'+tag+'\\>|\\W)', l)
+        words = re.split('\W+', l)
         for w in words:
             w = w.strip()
-            if len(l)>0:
-                tokens.append(w)
+            if w.isalpha():
+                tokens.append(ps.stem(w))
     return tokens
         
 if __name__ == '__main__':
@@ -33,8 +36,8 @@ if __name__ == '__main__':
     files = sorted(files)
     dict = {}
     for file in files:
-       tokens = tokenize(file)
-       for k in tokens:
+        tokens = tokenize(file)
+        for k in tokens:
            if not k in dict:
                dict[k] = ""
 
