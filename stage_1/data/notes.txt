@@ -1,4 +1,0 @@
-prior word ends in "person"
-preceeded by "Mr", "Ms", "Miss", 
-followed by ","
-followed by ", who"
