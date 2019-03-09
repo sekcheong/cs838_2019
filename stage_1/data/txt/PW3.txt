@@ -1,0 +1,16 @@
+Concerns over Windows ATMs
+
+Cash machine networks could soon be more susceptible to computer viruses, a security firm has warned.
+
+The warning is being issued because many banks are starting to use the Windows operating system in machines. Already there have been four incidents in which Windows viruses have disrupted networks of cash machines running the Microsoft operating system. But banking experts say the danger is being overplayed and that the risks of infection and disruption are small.
+
+For many years the venerable IBM operating system, known as OS/2, has been the staple software used to power many of the 1.4m cash machines in operation around the world. But IBM will end support for OS/2 in 2006 which is forcing banks to look for alternatives. There are also other pressures making banks turn to Windows said <N>Dominic Hirsch</N>, managing director of financial analysis firm Retail Banking Research.
+
+He said many cash machines will also have to be upgraded to make full use of the new Europay, Mastercard and Visa credit cards that use computer chips instead of magnetic stripes to store data. US laws that demand disabled people get equal access to information will also force banks to make their cash machines more versatile and able to present information in different ways. <N>Todd Thiemann</N>, spokesman for anti-virus firm Trend Micro, said the move to Windows in cash machines was not without risks. Mr <N>Thiemann</N> said research by the TowerGroup showed that 70% of new cash machines being installed were Windows based.
+
+Already, he said, there have been four incidents in which cash machines have been unavailable for hours due to viruses affecting the network of the bank that owns them.
+
+In January 2003 the Slammer worm knocked out 13,000 cash machines of the Bank of America and many of those operated by the Canadian Imperial Bank of Commerce. In August of the same year, cash machines of two un-named banks were put out of action for hours following an infection by the Welchia worm. Incidents like this happen, said Mr <N>Thiemann</N>, because when banks start using Windows cash machines they also change the networking technology used to link the devices to their back office computers. This often means that all the cash machines and computers in a bank share the same data network. "This could mean that cash machines get caught up in the viruses that are going around because they have a common transmission system," he said. "Banks need to consider protection as part of the investment to maintain the security of that network," Mr <N>Thiemann</N> told BBC News Online.
+
+But Mr <N>Hirsch</N> from Retail Banking Research said the number of cash machines actually at risk was low because so few were upgraded every year.
+
