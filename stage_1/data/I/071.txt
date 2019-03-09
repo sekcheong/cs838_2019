@@ -1,11 +1,16 @@
-Little Britain two top comic list
+Concerns over Windows ATMs
 
-Little Britain stars <name>Matt Lucas</name> and <name>David Walliams</name> have been named the most powerful people in TV comedy, in a poll by listings magazine Radio Times.
+Cash machine networks could soon be more susceptible to computer viruses, a security firm has warned.
 
-The duo kept Phoenix Nights creator <name>Peter Kay</name> at number two and The Office star <name>Ricky Gervais</name> in third place. A Radio Times panel compiled the list, taking the comedians' critical acclaim and financial success into account. Newcomers to the annual list included Nighty Night star <name>Julia Davis</name> at seven and Black Books' <name>Tamsin Greig</name> at 19.
+The warning is being issued because many banks are starting to use the Windows operating system in machines. Already there have been four incidents in which Windows viruses have disrupted networks of cash machines running the Microsoft operating system. But banking experts say the danger is being overplayed and that the risks of infection and disruption are small.
 
-<name>Lucas</name> and <name>Walliams</name> won numerous awards for Little Britain in 2004, including National Television, Royal Television Society and British Comedy awards. More than 1.8 million people watched the first episode of the latest series of Little Britain on BBC Three in October, giving the digital channel its highest rating ever.
+For many years the venerable IBM operating system, known as OS/2, has been the staple software used to power many of the 1.4m cash machines in operation around the world. But IBM will end support for OS/2 in 2006 which is forcing banks to look for alternatives. There are also other pressures making banks turn to Windows said <N>Dominic Hirsch</N>, managing director of financial analysis firm Retail Banking Research.
 
-They topped the Radio Times list after rising from 10th position last year. Other big risers over the past year included presenting duo Ant and Dec at five, up from 13 in 2004, <name>Stephen Fry</name> rising nine places to 15 and BBC Three controller <name>Stuart Murphy</name>, who moves to number 18 from 32 last year. Last year's winner, chat show host <name>Graham Norton</name>, fell to number 16 following relatively few television appearances in 2004. Production companies also featured in the top 50, including <name>Steve Coogan</name>'s Baby Cow, which created Nighty Night among others, Hat Trick - behind The Kumars at Number 42 - and The Vicar of Dibley production company Tiger Aspect.
+He said many cash machines will also have to be upgraded to make full use of the new Europay, Mastercard and Visa credit cards that use computer chips instead of magnetic stripes to store data. US laws that demand disabled people get equal access to information will also force banks to make their cash machines more versatile and able to present information in different ways. <N>Todd Thiemann</N>, spokesman for anti-virus firm Trend Micro, said the move to Windows in cash machines was not without risks. Mr <N>Thiemann</N> said research by the TowerGroup showed that 70% of new cash machines being installed were Windows based.
 
-[entertainment][212.txt]
+Already, he said, there have been four incidents in which cash machines have been unavailable for hours due to viruses affecting the network of the bank that owns them.
+
+In January 2003 the Slammer worm knocked out 13,000 cash machines of the Bank of America and many of those operated by the Canadian Imperial Bank of Commerce. In August of the same year, cash machines of two un-named banks were put out of action for hours following an infection by the Welchia worm. Incidents like this happen, said Mr <N>Thiemann</N>, because when banks start using Windows cash machines they also change the networking technology used to link the devices to their back office computers. This often means that all the cash machines and computers in a bank share the same data network. "This could mean that cash machines get caught up in the viruses that are going around because they have a common transmission system," he said. "Banks need to consider protection as part of the investment to maintain the security of that network," Mr <N>Thiemann</N> told BBC News Online.
+
+But Mr <N>Hirsch</N> from Retail Banking Research said the number of cash machines actually at risk was low because so few were upgraded every year.
+
