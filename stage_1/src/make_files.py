@@ -29,25 +29,30 @@ def clean_tags():
                 if len(l.strip())>0:
                     outFile.write(l.replace('<name>','<N>').replace('</name>','</N>') + '\n')
     
+def create_train_test_set():
+    files = glob.glob('../data/txt' + '/**/*.txt', recursive=True)
+    random.seed(838)
+    train, test = split_list(files, 0.3333)
 
-files = glob.glob('../data/txt' + '/**/*.txt', recursive=True)
-random.seed(838)
-train, test = split_list(files, 0.3333)
+    print("Train Files:", len(train))
+    print("Test Files:",len(test))
+    counter = 1 
 
-print("Train Files:", len(train))
-print("Test Files:",len(test))
-counter = 1 
+    with open('../data/train.txt', 'w') as outFile:
+        for f in train:
+            fname = format(counter, "03d") + ".txt"
+            copyfile(f, '../data/I/'+fname)
+            counter = counter + 1
+            outFile.write('I/' + fname +'\n')
 
-with open('../data/train.txt', 'w') as outFile:
-    for f in train:
-        fname = format(counter, "03d") + ".txt"
-        copyfile(f, '../data/I/'+fname)
-        counter = counter + 1
-        outFile.write('I/' + fname +'\n')
+    with open('../data/test.txt', 'w') as outFile:
+        for f in test:
+            fname = format(counter, "03d") + ".txt"
+            copyfile(f, '../data/J/'+fname)
+            counter = counter + 1
+            outFile.write('J/' + fname +'\n')
 
-with open('../data/test.txt', 'w') as outFile:
-    for f in test:
-        fname = format(counter, "03d") + ".txt"
-        copyfile(f, '../data/J/'+fname)
-        counter = counter + 1
-        outFile.write('J/' + fname +'\n')
+
+if __name__ == '__main__':
+    clean_tags()
+    create_train_test_set()
