@@ -1,8 +1,18 @@
-Celebrities get to stay in jungle. 
+Budget to set scene for election
 
-All four contestants still remain in I'm A Celebrity ... Get Me Out Of Here as no evictions were made on the television show on Saturday.
+. <name>Gordon Brown</name> will seek to put the economy at the centre of Labour's bid for a third term in power when he delivers his ninth Budget at 1230 GMT. He is expected to stress the importance of continued economic stability, with low unemployment and interest rates. The chancellor is expected to freeze petrol duty and raise the stamp duty threshold from £60,000. But the Conservatives and Lib Dems insist voters face higher taxes and more means-testing under Labour.
 
-Contestants <name>Paul Burrell</name>, <name>Joe Pasquale</name>, <name>Janet Street-Porter</name> and <name>Fran Cosgrave</name> were told by hosts Ant and Dec. <name>Natalie Appleton</name>'s decision to quit the show last Monday had given them all a stay of execution, the group were told. Model Sophie Anderton was the last person to be voted off the ITV1 show, set in the Australian jungle. The four remaining stars will do a joint Bushtucker Trial on Sunday.
+Treasury officials have said there will not be a pre-election giveaway, but Mr <name>Brown</name> is thought to have about £2bn to spare.
 
-Former All Saints singer <name>Natalie Appleton</name>,31, walked out of the show after learning she would face a fifth so-called Bushtucker Trial. The celebrities are chosen by the viewers to pass trials in order to win food for the rest of the camp. <name>Appleton</name> had endured a torrid time during the programme, including a well-publicised row with <name>Sophie Anderton</name>. And on 26 November singer <name>Brian Harvey</name> quit as a contestant after he had a blazing row with <name>Janet Street-Porter</name>.
-[entertainment][200.txt]
+- Increase in the stamp duty threshold from £60,000 
+ - A freeze on petrol duty 
+ - An extension of tax credit scheme for poorer families 
+ - Possible help for pensioners The stamp duty threshold rise is intended to help first time buyers - a likely theme of all three of the main parties' general election manifestos. Ten years ago, buyers had a much greater chance of avoiding stamp duty, with close to half a million properties, in England and Wales alone, selling for less than £60,000. Since then, average UK property prices have more than doubled while the starting threshold for stamp duty has not increased. Tax credits As a result, the number of properties incurring stamp duty has rocketed as has the government's tax take. The Liberal Democrats unveiled their own proposals to raise the stamp duty threshold to £150,000 in February.
+
+The Tories are also thought likely to propose increased thresholds, with shadow chancellor <name>Oliver Letwin</name> branding stamp duty a "classic Labour stealth tax". The Tories say whatever the chancellor gives away will be clawed back in higher taxes if Labour is returned to power. Shadow Treasury chief secretary <name>George Osborne</name> said: "Everyone who looks at the British economy at the moment says there has been a sharp deterioration in the public finances, that there is a black hole," he said. "If Labour is elected there will be a very substantial tax increase in the Budget after the election, of the order of around £10bn."
+
+But Mr <name>Brown</name>'s former advisor <name>Ed Balls</name>, now a parliamentary hopeful, said an examination of Tory plans for the economy showed there would be a £35bn difference in investment by the end of the next parliament between the two main parties. He added: "I don't accept there is any need for any changes to the plans we have set out to meet our spending commitments."
+
+For the Lib Dems <name>David Laws</name> said: "The chancellor will no doubt tell us today how wonderfully the economy is doing," he said. "But a lot of that is built on an increase in personal and consumer debt over the last few years - that makes the economy quite vulnerable potentially if interest rates ever do have to go up in a significant way." SNP leader <name>Alex Salmond</name> said his party would introduce a £2,000 grant for first time buyers, reduce corporation tax and introduce a citizens pension free from means testing. <name>Plaid Cymru</name>'s economics spokesman <name>Adam Price</name> said he wanted help to get people on the housing ladder and an increase in the minimum wage to £5.60 an hour.
+
+[politics][361.txt]
