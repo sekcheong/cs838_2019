@@ -32,7 +32,7 @@ def clean_tags():
 def create_train_test_set():
     files = glob.glob('../data/txt' + '/**/*.txt', recursive=True)
     random.seed(838)
-    train, test = split_list(files, 0.3333)
+    train, test = split_list(files, 0.33333333)
 
     print("Train Files:", len(train))
     print("Test Files:",len(test))
@@ -51,7 +51,6 @@ def create_train_test_set():
             copyfile(f, '../data/J/'+fname)
             counter = counter + 1
             outFile.write('J/' + fname +'\n')
-
 
 if __name__ == '__main__':
     clean_tags()
