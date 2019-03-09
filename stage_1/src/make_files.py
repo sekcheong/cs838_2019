@@ -18,24 +18,37 @@ def split_list(dataset, ratio):
         train.append(dataset[i])
     return train, test
 
-files = glob.glob('../data/txt' + '/**/*.txt', recursive=True)
-random.seed(838)
-train, test = split_list(files, 0.3333)
+def clean_tags():
+    files = glob.glob('../data/txt' + '/**/*.txt', recursive=True)
+    for filePath in files:
+        with open(filePath, 'r') as inFile:
+            lines =  inFile.readlines()
+        # lines = [l.replace('<name>','<N>').replace('</name>','</N>') in lines]
+        with open(filePath, 'w') as outFile:
+            for l in lines:
+                outFile.write(l.replace('<name>','<N>').replace('</name>','</N>') + '\n')
+    
 
-print("Train Files:", len(train))
-print("Test Files:",len(test))
-counter = 1 
+clean_tags()
 
-with open('../data/train.txt', 'w') as outFile:
-    for f in train:
-        fname = format(counter, "03d") + ".txt"
-        copyfile(f, '../data/I/'+fname)
-        counter = counter + 1
-        outFile.write('I/' + fname +'\n')
+# files = glob.glob('../data/txt' + '/**/*.txt', recursive=True)
+# random.seed(838)
+# train, test = split_list(files, 0.3333)
 
-with open('../data/test.txt', 'w') as outFile:
-    for f in test:
-        fname = format(counter, "03d") + ".txt"
-        copyfile(f, '../data/J/'+fname)
-        counter = counter + 1
-        outFile.write('J/' + fname +'\n')
+# print("Train Files:", len(train))
+# print("Test Files:",len(test))
+# counter = 1 
+
+# with open('../data/train.txt', 'w') as outFile:
+#     for f in train:
+#         fname = format(counter, "03d") + ".txt"
+#         copyfile(f, '../data/I/'+fname)
+#         counter = counter + 1
+#         outFile.write('I/' + fname +'\n')
+
+# with open('../data/test.txt', 'w') as outFile:
+#     for f in test:
+#         fname = format(counter, "03d") + ".txt"
+#         copyfile(f, '../data/J/'+fname)
+#         counter = counter + 1
+#         outFile.write('J/' + fname +'\n')
