@@ -20,14 +20,17 @@ def split_list(dataset, ratio):
 
 def clean_tags():
     files = glob.glob('../data/txt' + '/**/*.txt', recursive=True)
+    counter = 1
     for filePath in files:
         with open(filePath, 'r') as inFile:
             lines =  inFile.readlines()
         # lines = [l.replace('<name>','<N>').replace('</name>','</N>') in lines]
-        with open(filePath, 'w') as outFile:
+        fname = format(counter, "03d") + ".txt"
+        with open('../data/txt/'+fname, 'w') as outFile:
             for l in lines:
                 if len(l.strip())>0:
                     outFile.write(l.replace('<name>','<N>').replace('</name>','</N>') + '\n')
+        counter = counter + 1
     
 def create_train_test_set():
     files = glob.glob('../data/txt' + '/**/*.txt', recursive=True)
