@@ -27,3 +27,4 @@ These scams are illegal and telephone companies should have nothing to do with t
 Why don't BT et al block all premium numbers by default and only turn it off at the customer's request? To anyone who falls foul of this scam - refuse to pay your telephone provider for these calls. After you notify your telephone provider of these fraudulent transactions, they cannot insist on you paying the bill. To do so would be to knowingly assist the fraudsters to commit the fraud. No customers have yet been taken to court for refusing to pay these bills.
 
 Disable or remove your modem and use broadband instead - then you have nothing to worry about. Or buy some decent firewall software and anti-virus. You would not walk out in the freezing cold without a coat - you would not drive your car without any insurance - so why not protect your PC? Stop blaming the phone companies - it's not their fault!
+

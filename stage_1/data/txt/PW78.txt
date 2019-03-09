@@ -13,3 +13,4 @@ The goal of the project was to be one of the first groups to make gigapixel imag
 The Dutch team used already available technologies, although it had to upgrade them to be able to handle the high-resolution image.
 
 "We had to rewrite almost all the tools," <N>Me den Hartog</N> told the BBC News website. "All standard Windows viewers available would not be able to load such a large image, so we had to develop one ourselves." The 600 component pictures were taken on July 2004 by a computer-controlled camera with a 400 mm lens. Each image was made to slightly overlap so they could be accurately arranged into a composite. The stitching process was also done automatically using five powerful PCs over three days. Following the success of this project, and with promises of help from others, the TNO team is considering creating a full 360-degree panoramic view of another Dutch city, with even higher resolution.
+

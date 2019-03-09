@@ -26,29 +26,28 @@ def clean_tags():
         # lines = [l.replace('<name>','<N>').replace('</name>','</N>') in lines]
         with open(filePath, 'w') as outFile:
             for l in lines:
-                outFile.write(l.replace('<name>','<N>').replace('</name>','</N>') + '\n')
+                if len(l.strip())>0:
+                    outFile.write(l.replace('<name>','<N>').replace('</name>','</N>') + '\n')
     
 
-clean_tags()
+files = glob.glob('../data/txt' + '/**/*.txt', recursive=True)
+random.seed(838)
+train, test = split_list(files, 0.3333)
 
-# files = glob.glob('../data/txt' + '/**/*.txt', recursive=True)
-# random.seed(838)
-# train, test = split_list(files, 0.3333)
+print("Train Files:", len(train))
+print("Test Files:",len(test))
+counter = 1 
 
-# print("Train Files:", len(train))
-# print("Test Files:",len(test))
-# counter = 1 
+with open('../data/train.txt', 'w') as outFile:
+    for f in train:
+        fname = format(counter, "03d") + ".txt"
+        copyfile(f, '../data/I/'+fname)
+        counter = counter + 1
+        outFile.write('I/' + fname +'\n')
 
-# with open('../data/train.txt', 'w') as outFile:
-#     for f in train:
-#         fname = format(counter, "03d") + ".txt"
-#         copyfile(f, '../data/I/'+fname)
-#         counter = counter + 1
-#         outFile.write('I/' + fname +'\n')
-
-# with open('../data/test.txt', 'w') as outFile:
-#     for f in test:
-#         fname = format(counter, "03d") + ".txt"
-#         copyfile(f, '../data/J/'+fname)
-#         counter = counter + 1
-#         outFile.write('J/' + fname +'\n')
+with open('../data/test.txt', 'w') as outFile:
+    for f in test:
+        fname = format(counter, "03d") + ".txt"
+        copyfile(f, '../data/J/'+fname)
+        counter = counter + 1
+        outFile.write('J/' + fname +'\n')

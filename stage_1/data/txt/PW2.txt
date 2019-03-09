@@ -13,3 +13,4 @@ In most situations, a companion robot will eventually have to deal not only with
 Showing off its skills at the Science Museum, the unnamed robot had to select, approach, and ask different children to pick up a parcel with a gift, moving it arm as a pointer and its camera as an eye. It even used speech to give instructions and play music. However, according to researchers, it will still take many years to build a robot which would make full use of the "robotiquette" for human interaction. "If you think of a robot as a companion for the human being, you can think of 20 years into the future," concluded Professor <N>Dautenhahn</N>. "It might take even longer because it is very, very hard to develop such a robot."
 
 You can hear more on this story on the BBC World Service's Go Digital programme.
+
