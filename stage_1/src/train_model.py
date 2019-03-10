@@ -58,9 +58,9 @@ if __name__ == "__main__":
 
 	models = [
     	# linear_model.RidgeClassifierCV(normalize=True),
-    	# linear_model.LogisticRegressionCV(),
+    	# linear_model.LogisticRegressionCV(n_jobs=-1),
     	# tree.DecisionTreeClassifier(criterion='entropy'),
-    	ensemble.RandomForestClassifier(n_jobs = -1),
+    	ensemble.RandomForestClassifier(n_jobs=-1),
     	# svm.SVC(kernel='rbf')
 	]
 

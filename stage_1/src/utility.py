@@ -3,7 +3,7 @@ import math
 import nltk
 import random
 
-TAG = "name"
+TAG = "N"
 NUMBIN = 5
 ps = nltk.PorterStemmer()
 
@@ -72,10 +72,17 @@ def is_prev_title(word):
 			return 1
 	return 0
 
+def is_possessive(word):
+	if not word:
+		return 0
+	if "'" in word:
+		return 1
+	return 0
+
 def is_prev_pos(word):
 	if not word:
 		return 0
-	words = ["include"]
+	words = ["include", "by", "and"]
 	for w in words:
 		if ps.stem(w) == ps.stem(word):
 			return 1
@@ -84,7 +91,7 @@ def is_prev_pos(word):
 def is_next_pos(word):
 	if not word:
 		return 0
-	words = ["said"]
+	words = ["said", "and"]
 	for w in words:
 		if ps.stem(w) == ps.stem(word):
 			return 1
@@ -101,6 +108,7 @@ def get_feature(raw_words, words, prev, next, worddir):
 	feature.append(is_suf_punctutation(words[-1]))
 	feature.append(is_suf_who(next))
 	feature.append(is_prev_title(prev))
+	feature.append(is_possessive(words[-1]))
 	feature.append(is_prev_pos(prev))
 	feature.append(is_next_pos(next))
 	#print(len(feature))
@@ -125,6 +133,7 @@ def get_raw_text(words):
 	new_words = []
 	for word in words:
 		new_word = re.sub("\'\w+", "", word)
+		new_word = re.sub("\.\w+", "", new_word)
 		new_word = re.sub("-\w+", "", new_word)
 		new_word = re.sub("\W+", "", new_word)
 		new_words.append(new_word)
