@@ -16,10 +16,8 @@ def get_dataset(train = True):
 		lines = fi.readlines()
 		for line in lines:
 			fi_features, fi_labels = sample_data(DATASETDIR+line.strip(), worddir)
-			#print(len(fi_features), len(fi_labels))
 			features += fi_features
 			labels += fi_labels
-			#print(len(features))
 	return features, labels
 
 def cross_validation(model, features, labels):
@@ -43,25 +41,22 @@ def test_score(model, test_features, test_labels):
 
 if __name__ == "__main__":
 	worddir = load_worddir(WORDPATH)
-	#print(len(worddir), worddir['alien'])
 	features, labels = get_dataset()
-	print(len(features))
+	print("Numbers of train data: %d" % (len(features)))
 	cnt = 0
 	for label in labels:
 		cnt += (label == 1)
-	print(cnt)
-	# features = features[0:1000]
-	# labels = labels[0:1000]
+	print("Numbers of positive data: %d" % (cnt))
 
 	test_features, test_labels = get_dataset(train=False)
-	print(len(test_features))
+	print("Numbers of test data: %d" % (len(test_features)))
 
 	models = [
-    	# linear_model.RidgeClassifierCV(normalize=True),
-    	# linear_model.LogisticRegressionCV(n_jobs=-1),
-    	# tree.DecisionTreeClassifier(criterion='entropy'),
+    	linear_model.RidgeClassifierCV(normalize=True),
+    	linear_model.LogisticRegressionCV(n_jobs=-1),
+    	tree.DecisionTreeClassifier(criterion='entropy'),
     	ensemble.RandomForestClassifier(n_jobs=-1),
-    	# svm.SVC(kernel='rbf')
+    	svm.SVC(kernel='rbf')
 	]
 
 	for model in models:

@@ -4,7 +4,7 @@ import nltk
 import random
 
 TAG = "N"
-NUMBIN = 5
+NUMBIN = 1
 ps = nltk.PorterStemmer()
 
 def load_worddir(worddir_path):
@@ -147,17 +147,25 @@ def is_prev_pos(word):
 def is_next_pos(word):
 	if not word:
 		return 0
-	words = ["said"]
+	words = ["said", "told", "will", "has", "is"]
 	for w in words:
 		if ps.stem(w) == ps.stem(word):
 			return 1
 	return 0
 
+def is_prev_neg(word):
+	if not word:
+		return 0
+	words = ["the", "a", "an"]
+	for w in words:
+		if ps.stem(w) == ps.stem(word):
+			return 0
+	return 1
+
 def get_feature(raw_words, words, prev, next, worddir):
 	feature = [0 for _ in range(math.ceil(len(worddir)/NUMBIN))]
 	for word in raw_words:
 		pos = worddir[ps.stem(word)]
-		#print(pos)
 		feature[pos//NUMBIN] = 1
 	feature.append(is_endpoint(prev))
 	feature.append(is_endpoint(next))
@@ -168,8 +176,8 @@ def get_feature(raw_words, words, prev, next, worddir):
 	# feature.append(is_capital(prev))
 	# feature.append(is_capital(next))
 	feature.append(is_prev_pos(prev))
+	# feature.append(is_prev_neg(prev))
 	feature.append(is_next_pos(next))
-	#print(len(feature))
 	return feature
 
 def get_label_and_remove_tag(words):
@@ -218,10 +226,8 @@ def sample_data(file, worddir):
 				if check_valid(sample_words):
 					if label == 0 and random.random()>0.3:
 						continue
-					#print(label, sample_words)
 					prev = get_prev(words, i)
 					next = get_next(words, j-1)
-					#print(prev, next)
 					feature = get_feature(sample_words, words, prev, next, worddir)
 					features.append(feature)
 					labels.append(label)
