@@ -1,10 +1,10 @@
-How to smash a home computer
+Security papers 'found in street'
 
-An executive who froze his broken hard disk thinking it would be fixed has topped a list of the weirdest computer mishaps.
+An inquiry is under way after files containing security details about the Pakistani president's visit to London were found by a member of the public.
 
-Although computer malfunctions remain the most common cause of file loss, data recovery experts say human behaviour still is to blame in many cases. They say that no matter how effective technology is at rescuing files, users should take more time to back-up and protect important files. The list of the top 10 global data disasters was compiled by recovery company Ontrack.
+The files are believed to contain detailed security arrangements for Gen <N>Pervez Musharraf</N>'s visit this week, including police codes. Scotland Yard said the policing operation had been reviewed. A spokesman said President <N>Musharraf</N>'s safety had not been compromised, as the papers had been handed in promptly. "We cannot discuss who was responsible for the documents, only that they contained the policing arrangements for the official visit," said the spokesman.
 
-Careless - and preventable - mistakes that result in data loss range from reckless file maintenance practices to episodes of pure rage towards a computer. This last category includes the case of a man who became so mad with his malfunctioning laptop that he threw it in the lavatory and flushed a couple of times. "Data can disappear as a result of natural disaster, system fault or computer virus, but human error, including 'computer rage', seems to be a growing problem," said <N>Adrian Palmer</N>, managing director of Ontrack Data Recovery.
+The papers are believed to have been found by a member of the public in a street in Mayfair and given to the Mirror newspaper. The police spokesman said the newspaper handed the report over on Monday. The force's Directorate of Professional Standards is investigating the circumstances surrounding the loss of the documents, he said. Gen <N>Musharraf</N> held talks with <N>Tony Blair</N> on Monday. He arrived in Britain on Sunday night after flying from the United States, where he met President <N>George W Bush</N>. He is due to visit the Pakistani community in Manchester on Tuesday afternoon.
 
-"Nevertheless, victims soon calm down when they realise the damage they've done and come to us with pleas for help to retrieve their valuable information." A far more common situation is when a computer virus strikes and leads to precious files being corrupted or deleted entirely. Mr <N>Palmer</N> recalled the case of a couple who had hundreds of pictures of their baby's first three months on their computer, but managed to reformat the hard drive and erase all the precious memories. "Data can be recovered from computers, servers and even memory cards used in digital devices in most cases," said Mr <N>Palmer</N>. "However, individuals and companies can avoid the hassle and stress this can cause by backing up data on a regular basis."
+[politics][188.txt]
 
