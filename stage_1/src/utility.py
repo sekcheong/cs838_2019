@@ -4,7 +4,7 @@ import nltk
 import random
 
 TAG = "N"
-NUMBIN = 1
+NUMBIN = 5
 ps = nltk.PorterStemmer()
 
 def load_worddir(worddir_path):
