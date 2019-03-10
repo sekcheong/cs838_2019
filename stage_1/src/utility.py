@@ -43,6 +43,13 @@ def is_endpoint(word):
 	else:
 		return 0
 
+def is_capital(word):
+	if not word:
+		return 0
+	if word.istitle():
+		return 1
+	return 0
+
 def is_suf_punctutation(word):
 	if not word:
 		return 0
@@ -64,9 +71,58 @@ def is_suf_who(word):
 def is_prev_title(word):
 	if not word:
 		return 0
-	words = ["Mr", "Ms", "Miss", "Dr", "Prof", "Professor", "Lord", "Father",
-	"Fr", "Rabbi", "Cardinal", "Sir", "Chancellor", "President", "CEO",
-	"Minister", "Chef", "solicitor", "MPS"]
+	# words = ["Mr", "Ms", "Miss", "Dr", "Prof", "Professor", "Lord", "Father",
+	# "Fr", "Rabbi", "Cardinal", "Sir", "Chancellor", "President", "CEO",
+	# "Minister", "Chef", "solicitor", "MPS"]
+	words = ["Boss",
+        "Br",
+        "Captain",
+        "Cardinal",
+        "CEO",
+        "Chancellor",
+        "Chef",
+        "Chief",
+        "Commander",
+        "Dame",
+        "Dean",
+        "Director",
+        "Doctor",
+        "Dr",
+        "Elder",
+        "Father",
+        "Fr",
+        "Honorable",
+		"Imam",
+		"Judge",
+		"Lady",
+		"Lieutenant",
+		"Lord",
+		"Madam",
+		"Master",
+		"Minister",
+		"Miss",
+		"MPS",
+		"Mr",
+		"Mrs",
+		"Ms",
+		"Officer"
+		"Pastor",
+		"Pr",
+		"President",
+		"Principal",
+		"Prof",
+		"Professor",
+		"Provost",
+		"Rabbi",
+		"Rector",
+		"Regent",
+		"Rev",
+		"Reverend",
+		"Secretary",
+		"Sir",
+		"Solicitor",
+		"Sr",
+		"Warden"]
 	for w in words:
 		if ps.stem(w) == ps.stem(word):
 			return 1
@@ -82,7 +138,7 @@ def is_possessive(word):
 def is_prev_pos(word):
 	if not word:
 		return 0
-	words = ["include", "by", "and"]
+	words = ["include", "by"]
 	for w in words:
 		if ps.stem(w) == ps.stem(word):
 			return 1
@@ -91,7 +147,7 @@ def is_prev_pos(word):
 def is_next_pos(word):
 	if not word:
 		return 0
-	words = ["said", "and"]
+	words = ["said"]
 	for w in words:
 		if ps.stem(w) == ps.stem(word):
 			return 1
@@ -109,6 +165,8 @@ def get_feature(raw_words, words, prev, next, worddir):
 	feature.append(is_suf_who(next))
 	feature.append(is_prev_title(prev))
 	feature.append(is_possessive(words[-1]))
+	# feature.append(is_capital(prev))
+	# feature.append(is_capital(next))
 	feature.append(is_prev_pos(prev))
 	feature.append(is_next_pos(next))
 	#print(len(feature))
