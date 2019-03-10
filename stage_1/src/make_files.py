@@ -19,7 +19,7 @@ def split_list(dataset, ratio):
     return train, test
 
 def clean_tags():
-    files = glob.glob('../data/txt' + '/**/*.txt', recursive=True)
+    files = glob.glob('../data/rawtxt' + '/**/*.txt', recursive=True)
     counter = 1
     for filePath in files:
         with open(filePath, 'r') as inFile:
