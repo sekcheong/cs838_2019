@@ -1,7 +1,10 @@
 import re
+import math
 import nltk
+import random
 
-TAG = "N"
+TAG = "name"
+NUMBIN = 5
 ps = nltk.PorterStemmer()
 
 def load_worddir(worddir_path):
@@ -88,11 +91,11 @@ def is_next_pos(word):
 	return 0
 
 def get_feature(raw_words, words, prev, next, worddir):
-	feature = [0 for _ in range(len(worddir))]
+	feature = [0 for _ in range(math.ceil(len(worddir)/NUMBIN))]
 	for word in raw_words:
 		pos = worddir[ps.stem(word)]
 		#print(pos)
-		feature[pos] = 1
+		feature[pos//NUMBIN] = 1
 	feature.append(is_endpoint(prev))
 	feature.append(is_endpoint(next))
 	feature.append(is_suf_punctutation(words[-1]))
@@ -140,12 +143,14 @@ def sample_data(file, worddir):
 	with open(file, 'r') as fi:
 		lines = fi.readlines()
 	for line in lines:
-		words = lines[4].strip().split(' ')
+		words = line.strip().split(' ')
 		for i in range(len(words)):
 			for j in range(i+1, min(len(words), i+3)+1):
 				label, sample_words = get_label_and_remove_tag(words[i:j])
 				sample_words = get_raw_text(sample_words)
 				if check_valid(sample_words):
+					if label == 0 and random.random()>0.3:
+						continue
 					#print(label, sample_words)
 					prev = get_prev(words, i)
 					next = get_next(words, j-1)
