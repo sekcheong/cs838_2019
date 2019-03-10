@@ -11,4 +11,4 @@
  - [Documents in set J](https://github.com/sekcheong/cs838_2019/tree/master/stage_1/data/J)
  - [Source code](https://github.com/sekcheong/cs838_2019/tree/master/stage_1/src)
  - Compressed files
- - [Report](https://github.com/sekcheong/cs838_2019/blob/master/stage_1/results.pdf) 
+ - [Report](https://github.com/sekcheong/cs838_2019/blob/master/stage_1/report.pdf) 
