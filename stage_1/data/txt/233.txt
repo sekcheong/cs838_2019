@@ -1,14 +1,18 @@
-Potter director signs Warner deal
+Online games play with politics
 
-. <N>Harry Potter</N> director <N>Alfonso Cuaron</N> has signed a three-year deal with Hollywood studio Warner Brothers, according to Variety trade magazine.
+After bubbling under for some time, online games broke through onto the political arena in 2004.
 
-The Mexican film-maker, who directed <N>Harry Potter</N> and the Prisoner of Azkaban, will produce mainstream movies and smaller Spanish-language films. "We had a wonderful experience with <N>Alfonso</N> on <N>Harry Potter</N>," Warner producer <N>Jeff Robinov</N> told Variety. <N>Cuaron</N>'s other films include Mexican movie Y Tu Mama Tambien.
+The US presidential election provided a showcase for many, aimed at talking directly to a generation that has grown up with joysticks and gamepads. Experts say this reflects how video games are becoming a mainstream part of culture and society. The first official political campaign game was technically launched during the last week of 2003: the Iowa Game, commissioned by the Democrat hopeful <N>Howard Dean</N>. More than 20 followed suit, including Frontrunner, eLections, President Forever and The Political Machine, which allowed players to run an entire presidential campaign, including having to cope with the media. Others helped raise the stakes during the Bush/Kerry contest by highlighting a candidate's virtues or his vices.
 
-The 2001 rites-of-passage drama about two teenage boys who embark on a relationship with an older woman, brought Cuaron international attention - and box office glory.
+The phenomenon has astonished the forefathers of political games, a handful of multi-discipline games enthusiasts keen to push frontiers.
 
-It also won him and his brother <N>Carlos</N>, with whom he co-wrote the screenplay, an Oscar nomination for best original screenplay. Warner will distribute <N>Cuaron</N>'s films in several languages outside the US. "This deal will give us the opportunity to collaborate with <N>Alfonso</N> on movies that make the most of his artistry and vision, and continue to offer him the mainstream worldwide audiences that our studio provides so successfully," said Mr <N>Robinov.</N>
+"When I started researching political games at the university, about five years ago, I thought it was going to be something that would take decades to happen," said <N>Gonzalo Frasca</N>, computer games specialist at the Information Technology University of Copenhagen. "I must admit that I was the first person to be surprised at seeing how fast they have evolved," added the Uruguayan-born researcher, who has so far created games for two political campaigns. Many artists and designers are experimenting with this form of gaming with an agenda in projects such as newsgaming.com. The aim is to comment on international news events via games.
 
-His first film for Warner Brothers was 1995's family fantasy movie A Little Princess. Based on the novel by <N>Frances Hodgson Burnett</N>, A Little Princess tells the story of a young girl who is sent to live in a New York boarding school when her widowed father enlists for war. After the erotic nature of Y Tu Mama Tambien, Cuaron was a surprise choice to direct the third <N>Harry Potter</N> film but his dark interpretation was received well by the public and critics alike.
+The ability of games to simulate reality makes them a powerful modelling tool to interact with actual situations in an original way.
 
-[entertainment][028.txt]
+"Video games generate strong reactions mainly because they are new, but also because our culture needs to learn how to deal with simulation," Mr <N>Frasca</N> told the BBC News website. This was the case with the one he created for a political party in Uruguay, Cambiemos, an online puzzle game that offered a view on how the country's problems could be solved by working together. "It's up to us to explore what we can learn from ourselves through play and video games." Ultimately, Dr <N>Frasca</N> sees games as a small laboratory where we can play with our hopes, fears and beliefs. "Children learn a lot about the world through play. There is no reason why we adults should stop doing it as we grow up."
+
+But experts estimate it will still take at least about a decade until this new breed of video gaming communication become a common tool for political campaigns.
+
+This is hardly surprising, compared to other forms of mass media like the worldwide web. Only a few years ago, most politicians did not have a webpage, while now it is almost a must-have. Dr <N>Frasca</N> said: "Political campaigns will continue to experiment with video games. They represent a new tool of communication that can reach a younger audience in a language that can clearly speak to them." "It will not replace other forms of political propaganda, but it will integrate itself on to the media ecology of political campaigns."
 

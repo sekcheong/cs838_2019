@@ -1,8 +1,12 @@
-Junk e-mails on relentless rise
+New media battle for Bafta awards. 
 
-Spam traffic is up by 40%, putting the total amount of e-mail that is junk up to an astonishing 90%.
+The BBC leads the nominations for the Bafta Interactive Awards, including one for the Radio Times website and one for Sport Interactive's Euro 2004 coverage.
 
-The figures, from e-mail management firm Email Systems, will alarm firms attempting to cope with the amount of spam in their in-boxes. While virus traffic has slowed down, denial of service attacks are on the increase according to the firm. Virus mail accounts for just over 15% of all e-mail traffic analysis by the firm has found.
+The awards, which were started in 1997, recognise the best websites, digital TV shows and CD roms. Other nominees include The Guardian news website, the National Theatre, MTV, the Science Museum and the London Stock Exchange. The winners from 12 different categories are crowned on 2 March 2005. There were nearly 400 entries this year - a third more than last year. The BBC has 16 nominations while The Guardian has three nominations.
 
-It is no longer just multi-nationals that are in danger of so-called denial of service attacks, in which websites are bombarded by requests for information and rendered inaccessible. Email Systems refers to a small UK-based engineering firm, which received a staggering 12 million e-mails in January. The type of spam currently being sent has subtlety altered in the last few months, according to Email Systems analysis. Half of spam received since Christmas has been health-related with gambling and porn also on the increase. Scam mails, offering ways to make a quick buck, have declined by 40%. "January is clearly a month when consumers are less motivated to purchase financial products or put money into dubious financial opportunities," said <N>Neil Hammerton</N>, managing director of Email Systems. "Spammers seem to have adapted their output to reflect this, focussing instead on medically motivated and pornographic offers, presumably intentionally intended to coincide with what is traditionally considered to be the bleakest month in the calendar," he said.
+"This year's nominees are a testament to the creative and innovative work going on within the industry," said <N>Grant Dean</N>, chair of the interactive committee. Categories include interactive TV, film, digital TV, mobile phones and music. Shaun of the Dead, Oasis' Definitely Maybe, Really Bend It Like Beckham, The Chaplin Collection and The Day Today will battle it out in the DVD category.
+
+ITV's Great British Spelling Test takes on the BBC's Olympics and Spooks Interactive for the interactive TV award. And the Guardian takes three of a possible five nominations in the news and sport category for its website coverage of Euro 2004, the Tour de France and the US elections. The BBC's iCan site is up for the technical and social innovation award alongside the likes of Nottingham University's Uncle Roy All Around You. In 2002, the British Academy of Film and Television decided to split the awards into separate games and interactive ceremonies, to fully cover the range of innovation outside the gaming industry.
+
+[entertainment][220.txt]
 
