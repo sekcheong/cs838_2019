@@ -1,8 +1,12 @@
-Microsoft releases patches
+Dirty Den's demise seen by 14m. 
 
-Microsoft has warned PC users to update their systems with the latest security fixes for flaws in Windows programs.
+More than 14 million people saw "Dirty" <N>Den Watts</N> killed off on Friday, marking EastEnders' 20th anniversary, according to unofficial figures.
 
-In its monthly security bulletin, it flagged up eight "critical" security holes which could leave PCs open to attack if left unpatched. The number of holes considered "critical" is more than usual. They affect Windows programs, including Internet Explorer (IE), media player and instant messaging. Four other important fixes were also released. These were considered to be less critical, however. If not updated, either automatically or manually, PC users running the programs could be vulnerable to viruses or other malicious attacks designed to exploit the holes. Many of the flaws could be used by virus writers to take over computers remotely, install programs, change, and delete or see data.
+Den's death came 16 years after he was supposedly shot in 1989. But he came back to the show in September 2003. The audience for BBC One's one-hour special averaged 13.7 million and peaked at 14.2 million in the last 15 minutes, overnight figures showed. <N>Den</N> died after being confronted by <N>Zoe</N>, <N>Chrissie</N> and <N>Sam</N> in the Queen Vic.
 
-One of the critical patches Microsoft has made available is an important one that fixes some IE flaws. <N>Stephen Toulouse</N>, a Microsoft security manager, said the flaws were known about, and although the firm had not seen any attacks exploiting the flaw, he did not rule them out. Often, when a critical flaw is announced, spates of viruses follow because home users and businesses leave the flaw unpatched. A further patch fixes a hole in Media Player, Windows Messenger and MSN Messenger which an attacker could use to take control of unprotected machines through .png files. Microsoft announces any vulnerabilities in its software every month. The most important ones are those which are classed as "critical". Its latest releases came the week that the company announced it was to buy security software maker Sybari Software as part of Microsoft's plans to make its own security programs.
+If the ratings are confirmed, the episode will have given the soap its highest audience for a year. The overnight figures showed almost 60% of the viewing public tuned into EastEnders between 2000 and 2100 GMT, leaving ITV1 with about 13%. "We are very pleased with the figures," a BBC spokesman said. "It shows viewers have really enjoyed the story of <N>Den</N>'s demise." The show's highest audience came at Christmas 1986, when more than 30 million tuned in to see <N>Den</N>, played by <N>Leslie Grantham</N>, hand divorce papers to wife <N>Angie</N>.
+
+Two years later, 24 million saw him apparently shot by a man with a bunch of daffodils by a canal. More than 16 million viewers watched his return in 2003. The show's ratings have since settled down to about 12 million per episode. <N>Grantham</N> hit the headlines in May after a newspaper printed photographs of him apparently exposing himself via a webcam from his dressing room. He also allegedly insulted four co-stars. He apologised for his "deplorable actions" and "a moment's stupidity".
+
+[entertainment][031.txt]
 
