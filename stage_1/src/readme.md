@@ -1,3 +1,3 @@
-- make_files.py	Used to create the development set I and test set J
 - train_model.py	The main project file for training and validation 
 -	utility.py Utility functions used by train_model.py 
+- make_files.py	Used to create the development set I and test set J
