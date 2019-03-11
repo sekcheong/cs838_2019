@@ -10,5 +10,5 @@
  - [Documents in set I](https://github.com/sekcheong/cs838_2019/tree/master/stage_1/data/I)
  - [Documents in set J](https://github.com/sekcheong/cs838_2019/tree/master/stage_1/data/J)
  - [Source code](https://github.com/sekcheong/cs838_2019/tree/master/stage_1/src)
- - Compressed files
- - [Report](https://github.com/sekcheong/cs838_2019/blob/master/stage_1/results.pdf) 
+ - [Compressed files](https://github.com/sekcheong/cs838_2019/blob/master/stage_1/stage1.zip)
+ - [Report](https://github.com/sekcheong/cs838_2019/blob/master/stage_1/report.pdf) 
