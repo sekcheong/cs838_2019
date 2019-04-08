@@ -7,16 +7,17 @@ import csv
 movie_tuples = []
 
 class Movie:
-	name = ""
-	subtext = ""
-	duration = ""
-	genre = ""
-	release_date = "" 
-	country = ""
-	language = ""
-	directors = ""
-	stars = ""
 	#rating_score = ""
+	def __init__(self):
+		self.name = ""
+		#subtext = ""
+		self.duration = ""
+		self.genre = ""
+		self.release_date = "" 
+		self.country = ""
+		self.language = ""
+		self.directors = ""
+		self.stars = ""
 
 
 def get_movie_tuples(movie_links):
@@ -33,39 +34,61 @@ def get_movie_tuples(movie_links):
 
 		if(soup.find('time')):
 			movie.duration = soup.find('time').string.strip()
+		else:
+			movie.duration = " "
 		#print "movie.duration: " + movie.duration
 
 		genres = []
 		for x in soup.find_all(href=re.compile("genres&ref_=tt_ov_inf$")):
 			genres.append(x.string.strip())
 		genres = list(set(genres))
-		for genre in genres:
-			movie.genre = movie.genre + genre + ", "
-		movie.genre = movie.genre[:-2]
+		if(genres):
+			for genre in genres:
+				movie.genre = movie.genre + genre + ", "
+			movie.genre = movie.genre[:-2]
+		else:
+			movie.genre = " "
 		#print "movie.genre: " + movie.genre
 
 		#movie.release_date = soup.find(href=re.compile("releaseinfo?ref_=tt_ov_inf$")).string
 		if(soup.find(title = "See more release dates")):
 			movie.release_date = soup.find(title = "See more release dates").string.strip()
-		#print "movie.release_date: " + movie.release_date
+		else:
+			movie.release_date = " "
 
-		movie.country = soup.find(href = re.compile("country_of_origin")).string
+		#print "movie.release_date: " + movie.release_date
+		if(soup.find(href = re.compile("country_of_origin"))):
+			if(soup.find(href = re.compile("country_of_origin")).string):
+				movie.country = soup.find(href = re.compile("country_of_origin")).string
+		else:
+			movie.country = " "
 		#print "movie.country: " + movie.country
 		
-		movie.language = soup.find(href = re.compile("language")).string
+		if(soup.find(href = re.compile("language"))):
+			if(soup.find(href = re.compile("language")).string):
+				movie.language = soup.find(href = re.compile("language")).string
+		else:
+			movie.language = " "
 		#print "movie.language: " + movie.language
 
-		for x in soup.find_all(href = re.compile("/?ref_=tt_ov_dr$")):
-			movie.directors = movie.directors + x.string.strip() + ", "
-		movie.directors = movie.directors[:-2]
+		directors = soup.find_all(href = re.compile("/?ref_=tt_ov_dr$"))
+		if(directors):
+			for x in directors:
+				movie.directors = movie.directors + x.string.strip() + ", "
+			movie.directors = movie.directors[:-2]
+		else:
+			movie.directors = " "
 		#print "movie.directors: " + movie.directors
 		
 		#movie.stars = 
 		stars = soup.find_all(href = re.compile("/?ref_=tt_ov_st_sm$"))
-		stars.pop()
-		for x in stars:
-			movie.stars = movie.stars + x.string.strip() + ", "
-		movie.stars = movie.stars[:-2]
+		if(stars):
+			stars.pop()
+			for x in stars:
+				movie.stars = movie.stars + x.string.strip() + ", "
+			movie.stars = movie.stars[:-2]
+		else:
+			movie.stars = " "
 		#print "movie.stars: " + movie.star
 	
 		movie_tuples.append(movie)
@@ -110,6 +133,17 @@ if __name__ == '__main__':
 		writer = csv.writer(csvfile)
 		writer.writerow(['name', 'duration', 'genre', 'release_date', 'country', 'language', 'directors', 'stars'])
 		for movie in movie_tuples:
+			'''
+			print movie.name.encode('utf-8') 
+			print movie.duration.encode('utf-8') 
+			print movie.genre.encode('utf-8') 
+			print movie.release_date.encode('utf-8')
+			print movie.country.encode('utf-8')
+			print movie.language
+			print movie.language.encode('utf-8')
+			print movie.directors.encode('utf-8')
+			print movie.stars.encode('utf-8')
+			'''
 			writer.writerow([movie.name.encode('utf-8'), movie.duration.encode('utf-8'), movie.genre.encode('utf-8'), movie.release_date.encode('utf-8'), movie.country.encode('utf-8'), movie.language.encode('utf-8'), movie.directors.encode('utf-8'), movie.stars.encode('utf-8')])
 
 
