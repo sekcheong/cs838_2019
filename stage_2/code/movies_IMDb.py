@@ -4,7 +4,7 @@ import requests
 import re
 import csv
 
-movie_tuples = []
+movie_tuples = {}
 
 class Movie:
 	#rating_score = ""
@@ -14,8 +14,8 @@ class Movie:
 		self.duration = ""
 		self.genre = ""
 		self.release_date = "" 
-		self.country = ""
-		self.language = ""
+		#self.country = ""
+		#self.language = ""
 		self.directors = ""
 		self.stars = ""
 
@@ -55,7 +55,7 @@ def get_movie_tuples(movie_links):
 			movie.release_date = soup.find(title = "See more release dates").string.strip()
 		else:
 			movie.release_date = " "
-
+		'''
 		#print "movie.release_date: " + movie.release_date
 		if(soup.find(href = re.compile("country_of_origin"))):
 			if(soup.find(href = re.compile("country_of_origin")).string):
@@ -70,6 +70,7 @@ def get_movie_tuples(movie_links):
 		else:
 			movie.language = " "
 		#print "movie.language: " + movie.language
+		'''
 
 		directors = soup.find_all(href = re.compile("/?ref_=tt_ov_dr$"))
 		if(directors):
@@ -91,8 +92,8 @@ def get_movie_tuples(movie_links):
 			movie.stars = " "
 		#print "movie.stars: " + movie.star
 	
-		movie_tuples.append(movie)
-		print "###########tuples number:" + str(len(movie_tuples))
+		movie_tuples[movie.name] = movie
+		#print "###########tuples number:" + str(len(movie_tuples))
 
 
 
@@ -128,11 +129,13 @@ if __name__ == '__main__':
 	get_movie_links('https://www.imdb.com/search/title?genres=animation&explore=title_type,genres&pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=fd0c0dd4-de47-4168-baa8-239e02fd9ee7&pf_rd_r=W368VY09EEK5RCWHRX71&pf_rd_s=center-4&pf_rd_t=15051&pf_rd_i=genre&ref_=ft_gnr_pr4_i_1', 3000)
 	
 	print len(movie_tuples) 
-	movie_tuples = list(set(movie_tuples))
+	#movie_tuples = list(set(movie_tuples))
+	print "write csv"
 	with open('test.csv', 'w') as csvfile:
 		writer = csv.writer(csvfile)
-		writer.writerow(['name', 'duration', 'genre', 'release_date', 'country', 'language', 'directors', 'stars'])
-		for movie in movie_tuples:
+		writer.writerow(['name', 'duration', 'genre', 'release_date', 'directors', 'stars'])
+		for name in movie_tuples:
+			movie = movie_tuples[name]
 			'''
 			print movie.name.encode('utf-8') 
 			print movie.duration.encode('utf-8') 
@@ -144,9 +147,9 @@ if __name__ == '__main__':
 			print movie.directors.encode('utf-8')
 			print movie.stars.encode('utf-8')
 			'''
-			writer.writerow([movie.name.encode('utf-8'), movie.duration.encode('utf-8'), movie.genre.encode('utf-8'), movie.release_date.encode('utf-8'), movie.country.encode('utf-8'), movie.language.encode('utf-8'), movie.directors.encode('utf-8'), movie.stars.encode('utf-8')])
+			writer.writerow([movie.name.encode('utf-8'), movie.duration.encode('utf-8'), movie.genre.encode('utf-8'), movie.release_date.encode('utf-8'), movie.directors.encode('utf-8'), movie.stars.encode('utf-8')])
 
-
+	print "done"
 
 
 
