@@ -1,7 +1,7 @@
 # CS839 Data Science Spring 2019 Project Page
 
 ## Members
-- Pan Wu,pwu56@wisc.edu
+- Pan Wu, pwu56@wisc.edu
 - Dongqiangzi Ye, dye25@wisc.edu
 - Sek Cheong, sucheong@wisc.edu
 
@@ -14,3 +14,6 @@
  - [Report](https://github.com/sekcheong/cs839_2019/blob/master/stage_1/report.pdf) 
 
 ## Project Stage 2
+- [Data](https://github.com/sekcheong/cs839_2019/tree/master/stage_2/data)
+- [Code](https://github.com/sekcheong/cs839_2019/tree/master/stage_2/code)
+- [Report](https://github.com/sekcheong/cs839_2019/blob/master/stage_2/Report.pdf) 
