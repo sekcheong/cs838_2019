@@ -14,6 +14,6 @@
  - [Report](https://github.com/sekcheong/cs839_2019/blob/master/stage_1/report.pdf) 
 
 ## Project Stage 2
-- [Data](https://github.com/sekcheong/cs839_2019/tree/master/stage_2/data)
+- [data](https://github.com/sekcheong/cs839_2019/tree/master/stage_2/data)
 - [Code](https://github.com/sekcheong/cs839_2019/tree/master/stage_2/code)
 - [Report](https://github.com/sekcheong/cs839_2019/blob/master/stage_2/Report.pdf) 
