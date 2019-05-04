@@ -17,3 +17,7 @@
 - [data](https://github.com/sekcheong/cs839_2019/tree/master/stage_2/data)
 - [code](https://github.com/sekcheong/cs839_2019/tree/master/stage_2/code)
 - [report](https://github.com/sekcheong/cs839_2019/blob/master/stage_2/Report.pdf) 
+
+## Project Stage 3
+- [screen shot](https://github.com/sekcheong/cs839_2019/tree/master/stage_3/IMG_5655.png) 
+
