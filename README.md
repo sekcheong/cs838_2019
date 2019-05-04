@@ -20,5 +20,17 @@
 
 ## Project Stage 3
 ### Matching Fodors and Zagats
-- [screen shot](https://github.com/sekcheong/cs839_2019/tree/master/stage_3/IMG_5655.png) 
+- UserID: ProjectGroup5
+- ProjectID: ProjectStage3
+- [screen shot](https://github.com/sekcheong/cs839_2019/tree/master/stage_3/images/IMG_5655.png) 
+
+### Blocking Results
+- UserID: ProjectGroup5
+- ProjectID:  	ProjectStage3Movie
+- [screen shot](https://github.com/sekcheong/cs839_2019/tree/master/stage_3/images/blocking.png) 
+
+### Matching Results
+- UserID: ProjectGroup5
+- ProjectID:  	ProjectStage3Movie
+- [screen shot](https://github.com/sekcheong/cs839_2019/tree/master/stage_3/images/matches.png) 
 
