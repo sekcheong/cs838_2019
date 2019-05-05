@@ -37,3 +37,10 @@
 ### Estimating Accuracy
 - UserID: ProjectGroup5
 - ProjectID: ProjectStage3Movie
+- [Prediction list](https://github.com/sekcheong/cs839_2019/tree/master/stage_3/data/777_cm_matching_al_ds) 
+- [Candidate set](https://github.com/sekcheong/cs839_2019/tree/master/stage_3/data/777_apply_rules_ds) 
+- [Table A](https://github.com/sekcheong/cs839_2019/tree/master/stage_3/data/Walmart) 
+- [Table B](https://github.com/sekcheong/cs839_2019/tree/master/stage_3/data/IMDB) 
+
+
+
