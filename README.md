@@ -42,6 +42,9 @@
 - [Table A](https://github.com/sekcheong/cs839_2019/tree/master/stage_3/data/Walmart.csv) 
 - [Table B](https://github.com/sekcheong/cs839_2019/tree/master/stage_3/data/IMDB.csv) 
 - [Table L](https://github.com/sekcheong/cs839_2019/tree/master/stage_3/data/L.csv)
+- [Reduced Candidate Set](https://github.com/sekcheong/cs839_2019/tree/master/stage_3/data/reduced_candidate.csv)
+- [Blocking Rules pdf](https://github.com/sekcheong/cs839_2019/tree/master/stage_3/blocking_rules.pdf)
+- [Blocking Rules Code](https://github.com/sekcheong/cs839_2019/tree/master/stage_3/data/blocking.ipynb)
 
 
 
