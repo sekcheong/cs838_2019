@@ -41,6 +41,7 @@
 - [Candidate set](https://github.com/sekcheong/cs839_2019/tree/master/stage_3/data/777_apply_rules_ds.csv) 
 - [Table A](https://github.com/sekcheong/cs839_2019/tree/master/stage_3/data/Walmart.csv) 
 - [Table B](https://github.com/sekcheong/cs839_2019/tree/master/stage_3/data/IMDB.csv) 
+- [Table L](https://github.com/sekcheong/cs839_2019/tree/master/stage_3/data/L.csv)
 
 
 
